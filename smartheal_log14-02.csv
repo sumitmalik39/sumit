@@ -14,3 +14,50 @@ Date, Timestamp, Level, Module, Description
 02-14,12:20:49.419,E,NotificationShelf,NotificationShelf.clipTransientViews():	clip non-row transient view
 02-14,12:20:50.977,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-14,12:20:51.213,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-14,12:21:03.389,E,YouTube,Expected	ad stage to be REQUESTED, but was NOT_REQUESTED
+02-14,12:21:03.389,E,YouTube,Unexpected	transition from NOT_REQUESTED to ACQUIRED
+02-14,12:21:03.422,E,YouTube,ERROR	onPlayAd called for new ad without reset being called. Clients in incorrect state
+02-14,12:21:03.441,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:21:03.450,E,OMXNodeInstance,getConfig(0xeaaa7860:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-14,12:21:03.485,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:21:03.494,E,OMX-VDEC-1080P,Unsupported	color format for c2d (2141391876)
+02-14,12:21:03.494,E,OMX-VDEC-1080P,Setting	format failed
+02-14,12:21:03.500,E,OMX-VDEC-1080P,Extension:	not implemented
+02-14,12:21:03.500,E,OMX-VDEC-1080P,Extension:	not implemented
+02-14,12:21:03.500,E,OMX-VDEC-1080P,Extension:	is supported
+02-14,12:21:03.500,E,OMX-VDEC-1080P,get_parameter:	param 7f000046
+02-14,12:21:03.500,E,OMXNodeInstance,getParameter(0xe0583444:qcom.decoder.vp9,	ERROR: UnsupportedIndex(0x8000101a)
+02-14,12:21:03.501,E,OMX-VDEC-1080P,set_parameter:	0x80001019, setting param 0x7f00005d
+02-14,12:21:03.501,E,OMXNodeInstance,setParameter(0xe0583444:qcom.decoder.vp9,	Output:1 en=0) ERROR: UnsupportedSetting(0x80001019)
+02-14,12:21:03.501,E,OMX-VDEC-1080P,Extension:	not implemented
+02-14,12:21:03.502,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.502,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.502,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.503,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.503,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.503,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.503,E,OMX-VDEC-1080P,get_parameter:	param 6f600007
+02-14,12:21:03.503,E,OMXNodeInstance,getParameter(0xe0583444:qcom.decoder.vp9,	ERROR: UnsupportedIndex(0x8000101a)
+02-14,12:21:03.504,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:21:03.504,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.504,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.505,E,OMXNodeInstance,getConfig(0xe0583444:qcom.decoder.vp9,	??(0x7f000062)) ERROR: UnsupportedSetting(0x80001019)
+02-14,12:21:03.509,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.512,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:21:03.515,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.515,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.515,E,OMX-VDEC-1080P,Extension:	not implemented
+02-14,12:21:03.520,E,Parcel,Reading	string not supported here.
+02-14,12:21:03.532,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.532,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.533,E,OMXNodeInstance,getConfig(0xe0583444:qcom.decoder.vp9,	??(0x7f000062)) ERROR: UnsupportedSetting(0x80001019)
+02-14,12:21:03.541,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.542,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.542,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.AndroidNativeBufferConsumerUsage not implemented
+02-14,12:21:03.554,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.554,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,12:21:03.555,E,OMXNodeInstance,getConfig(0xe0583444:qcom.decoder.vp9,	ERROR: UnsupportedSetting(0x80001019)
+02-14,12:21:03.558,E,Parcel,Reading	string not supported here.
+02-14,12:21:03.561,E,OMX-VDEC-1080P,Extension:	not implemented
+02-14,12:21:03.568,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:21:04.065,E,Parcel,Reading	string not supported here.
