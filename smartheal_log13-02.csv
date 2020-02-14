@@ -8,3 +8,7 @@ Date, Timestamp, Level, Module, Description
 02-14,12:06:15.625,E,QC-time-services,Daemon:	Time-services: Waiting to acceptconnection
 02-14,12:06:15.631,E,QC-time-services,Receive	Passed == base = 13, unit = 1, operation = 0, result = 0
 02-14,12:06:15.632,E,QC-time-services,Daemon:	Time-services: Waiting to acceptconnection
+Date, Timestamp, Level, Module, Description
+02-14,12:06:18.769,E,rutils,releaseProcess	1
+02-14,12:06:22.783,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-14,12:06:22.866,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
