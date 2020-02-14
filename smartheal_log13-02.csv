@@ -90,3 +90,7 @@ Date, Timestamp, Level, Module, Description
 02-14,12:08:04.263,E,sensors-hal,handle_sns_std_sensor_event:407,	handle_sns_std_sensor_event:407, accel_sample(accelcal_available:0): ts=304312058567810 ns; value = [0.113374, 0.074836, 9.798197], status=3
 02-14,12:08:04.464,E,sensors-hal,handle_sns_std_sensor_event:407,	handle_sns_std_sensor_event:407, accel_sample(accelcal_available:0): ts=304312259850935 ns; value = [0.109780, 0.078669, 9.809935], status=3
 02-14,12:08:05.169,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+Date, Timestamp, Level, Module, Description
+02-14,12:08:09.733,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+02-14,12:08:13.028,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-14,12:08:13.678,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
