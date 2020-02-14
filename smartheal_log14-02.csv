@@ -1,0 +1,7 @@
+Date, Timestamp, Level, Module, Description
+02-14,12:20:40.002,E,WakeLock,GCM_HB_ALARM	release without a matched acquire!
+02-14,12:20:40.045,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:20:40.066,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:20:40.085,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:20:41.245,E,NetworkScheduler.ATC,Called	for already completed task com.google.android.gms/.measurement.PackageMeasurementTaskService{u=0 tag="Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG" trigger=window{start=1034s,end=2070s,earliest=-256s,latest=779s} requirements=[NET_CONNECTED] attributes=[PERSISTED] scheduled=-1290s last_run=-1s jid=N/A status=ACTIVE retries=0 client_lib=GMS_TASK_SCHEDULER-20104000}:1
+02-14,12:20:41.291,E,NetworkScheduler.ATC,Called	cancelTask for already completed task com.google.android.gms/.measurement.PackageMeasurementTaskService{u=0 tag="Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG" trigger=window{start=1034s,end=2070s,earliest=-256s,latest=779s} requirements=[NET_CONNECTED] attributes=[PERSISTED] scheduled=-1290s last_run=-1s jid=N/A status=ACTIVE retries=0 client_lib=GMS_TASK_SCHEDULER-20104000}:1
