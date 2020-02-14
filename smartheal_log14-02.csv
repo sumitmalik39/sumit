@@ -5,3 +5,12 @@ Date, Timestamp, Level, Module, Description
 02-14,12:20:40.085,E,Parcel,Reading	a NULL string not supported here.
 02-14,12:20:41.245,E,NetworkScheduler.ATC,Called	for already completed task com.google.android.gms/.measurement.PackageMeasurementTaskService{u=0 tag="Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG" trigger=window{start=1034s,end=2070s,earliest=-256s,latest=779s} requirements=[NET_CONNECTED] attributes=[PERSISTED] scheduled=-1290s last_run=-1s jid=N/A status=ACTIVE retries=0 client_lib=GMS_TASK_SCHEDULER-20104000}:1
 02-14,12:20:41.291,E,NetworkScheduler.ATC,Called	cancelTask for already completed task com.google.android.gms/.measurement.PackageMeasurementTaskService{u=0 tag="Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG" trigger=window{start=1034s,end=2070s,earliest=-256s,latest=779s} requirements=[NET_CONNECTED] attributes=[PERSISTED] scheduled=-1290s last_run=-1s jid=N/A status=ACTIVE retries=0 client_lib=GMS_TASK_SCHEDULER-20104000}:1
+02-14,12:20:45.673,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-14,12:20:45.758,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-14,12:20:45.806,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-14,12:20:48.788,E,rutils,releaseProcess	1
+02-14,12:20:49.342,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-14,12:20:49.419,E,NotificationShelf,NotificationShelf.clipTransientViews():	clip non-row transient view
+02-14,12:20:49.419,E,NotificationShelf,NotificationShelf.clipTransientViews():	clip non-row transient view
+02-14,12:20:50.977,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-14,12:20:51.213,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
