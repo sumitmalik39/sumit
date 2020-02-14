@@ -1,6 +1,0 @@
-Date, Timestamp, Level, Module, Description
-02-14,14:57:00.500,E,rutils,releaseProcess	1
-02-14,14:57:03.280,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'INTERFACE' not found
-02-14,14:57:03.280,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
-02-14,14:57:03.280,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
-02-14,14:57:03.280,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'UID' not found
