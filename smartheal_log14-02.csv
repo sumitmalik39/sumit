@@ -1,3 +1,87 @@
-Date, Timestamp, Level, Module, Description
-02-14,14:23:32.851,E,BatteryExternalStatsWorker,no	controller energy info supplied for wifi
-02-14,14:23:32.852,E,BatteryExternalStatsWorker,no	controller energy info supplied for bluetooth
+02-14,14:23:37.019,E,cn.xender,Not	starting debugger since process cannot load the jdwp agent.
+02-14,14:23:37.255,E,CheckPermission,_bluetooth	code = 1 
+02-14,14:23:37.299,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.316,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.323,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.333,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.333,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.334,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.337,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.338,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.338,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.342,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.347,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.351,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.352,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.357,E,android.vendin,Not	starting debugger since process cannot load the jdwp agent.
+02-14,14:23:37.364,E,Diag_Lib,Diag_LSM_Init:	 Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+02-14,14:23:37.423,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.518,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.519,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.519,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.519,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.519,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.519,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.519,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.519,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.519,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.520,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.520,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.520,E,libc,Access	denied finding property "vendor.camera.aux.packagelist"
+02-14,14:23:37.568,E,sensors-hal,handle_sns_std_sensor_event:487,	handle_sns_std_sensor_event:487, gyro_sample_cal: ts=312445416119003 ns; value = [0.003598, -0.003174, 0.001920], status = 3
+02-14,14:23:37.609,E,sensors-hal,handle_sns_std_sensor_event:487,	handle_sns_std_sensor_event:487, gyro_sample_cal: ts=312445466119003 ns; value = [0.000606, -0.001857, -0.001072], status = 3
+02-14,14:23:37.649,E,sensors-hal,handle_sns_std_sensor_event:487,	handle_sns_std_sensor_event:487, gyro_sample_cal: ts=312445516119003 ns; value = [0.000606, -0.001112, -0.000499], status = 3
+02-14,14:23:37.804,E,e.process.gapp,Not	starting debugger since process cannot load the jdwp agent.
+02-14,14:23:37.880,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.885,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:37.911,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.170,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.203,E,dboxed_process,Not	starting debugger since process cannot load the jdwp agent.
+02-14,14:23:38.267,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.269,E,iders.download,Not	starting debugger since process cannot load the jdwp agent.
+02-14,14:23:38.281,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.295,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.421,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,14:23:38.549,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.574,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.580,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,14:23:38.616,E,OppoPackageManager,parserFilterAppList()	xml empty, return.
+02-14,14:23:38.620,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.625,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.629,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.633,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.641,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.644,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.659,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.664,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.668,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.674,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:38.686,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:39.238,E,Parcel,Reading	a NULL string not supported here.
+02-14,14:23:40.066,E,DreamController,Unable	to bind dream service: Intent { act=android.service.dreams.DreamService flg=0x800000 cmp=com.google.android.deskclock/com.android.deskclock.Screensaver }
+02-14,14:23:40.089,E,AP_Sensors,tp_proximity	AP_Sensors: tp_proximity calling driver setDelay 40 ms
+02-14,14:23:40.117,E,libc,Access	denied finding property "persist.report.tid"
+02-14,14:23:40.125,E,sensors-hal,handle_sns_std_sensor_event:57,	handle_sns_std_sensor_event:57, tp_gesture: report_ts = 7115; value = [32.000000]
+02-14,14:23:40.166,E,sensors-hal,handle_sns_std_sensor_event:57,	handle_sns_std_sensor_event:57, tp_gesture: report_ts = 7116; value = [48.000000]
+02-14,14:23:40.187,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-14,14:23:40.206,E,sensors-hal,handle_sns_std_sensor_event:57,	handle_sns_std_sensor_event:57, tp_gesture: report_ts = 7117; value = [56.000000]
+02-14,14:23:40.489,E,com.oppo.aod,Not	starting debugger since process cannot load the jdwp agent.
+02-14,14:23:40.524,E,sensors-hal,handle_sns_client_event:88,	handle_sns_client_event:88, prox_event: ts=312448395511607, slpi_ts=5999077044338 , raw_adc=32, near_far=0, distance=5.000000
+02-14,14:23:40.638,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-14,14:23:40.662,E,Kgd.KeyguardSimState,isInvalidSimSlotId	
+02-14,14:23:40.663,E,Kgd.KeyguardSimState,isInvalidSimSlotId	
+02-14,14:23:40.744,E,WifiStateMachine,getWifiLinkLayerStats	called without an interface
+02-14,14:23:40.749,E,OppoWifiStateMachine2,getWifiLinkLayerStats	called without an interface
+02-14,14:23:40.756,E,soundtrigger,audio_extn_sound_trigger_set_parameters:	audio_extn_sound_trigger_set_parameters: str_params NULL
+02-14,14:23:40.889,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-14,14:23:40.972,E,Parcel,Reading	string not supported here.
+02-14,14:23:40.976,E,Parcel,Reading	string not supported here.
+02-14,14:23:41.083,E,FingerprintHal,fingerprint_authenticateAsType	
+02-14,14:23:41.083,E,[GF_HAL][Device],[enable_tp]	mode = 1.
+02-14,14:23:41.107,E,android.hardware.biometrics.fingerprint@2.1-service,vendorAcquiredFilter:	1003
+02-14,14:23:41.133,E,sensors-hal,handle_sns_client_event:58,	handle_sns_client_event:58, lux_aod: report_ts=599,state=1.000000
+02-14,14:23:41.136,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-14,14:23:41.189,E,sensors-hal,handle_sns_std_sensor_event:79,	handle_sns_std_sensor_event:79, step_count: ts=312449076070617 ns; step = 33428,last report step = 33428, slpi step = 33428,last slpi step = 33428
+02-14,14:23:42.118,E,Parcel,Reading	string not supported here.
+02-14,14:23:43.163,E,sensors-hal,handle_sns_client_event:88,	handle_sns_client_event:88, prox_event: ts=312448395511607, slpi_ts=5999077044338 , raw_adc=32, near_far=0, distance=5.000000
+02-14,14:23:43.623,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
