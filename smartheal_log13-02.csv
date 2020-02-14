@@ -14,3 +14,28 @@ Date, Timestamp, Level, Module, Description
 02-14,12:06:22.866,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
 Date, Timestamp, Level, Module, Description
 02-14,12:06:39.780,E,DreamController,Unable	to bind dream service: Intent { act=android.service.dreams.DreamService flg=0x800000 cmp=com.google.android.deskclock/com.android.deskclock.Screensaver }
+Date, Timestamp, Level, Module, Description
+02-14,12:06:44.000,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-14,12:06:44.428,E,com.oppo.aod,Not	starting debugger since process cannot load the jdwp agent.
+02-14,12:06:44.548,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:06:44.563,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:06:44.607,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-14,12:06:44.617,E,Kgd.KeyguardSimState,isInvalidSimSlotId	
+02-14,12:06:44.618,E,Kgd.KeyguardSimState,isInvalidSimSlotId	
+02-14,12:06:44.732,E,soundtrigger,audio_extn_sound_trigger_set_parameters:	str_params NULL
+02-14,12:06:44.754,E,Parcel,Reading	string not supported here.
+02-14,12:06:44.880,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-14,12:06:44.998,E,Parcel,Reading	string not supported here.
+02-14,12:06:44.999,E,Parcel,Reading	string not supported here.
+02-14,12:06:45.045,E,FingerprintHal,fingerprint_authenticateAsType	
+02-14,12:06:45.045,E,[GF_HAL][Device],[enable_tp]	mode = 1.
+02-14,12:06:45.067,E,android.hardware.biometrics.fingerprint@2.1-service,vendorAcquiredFilter:	1003
+02-14,12:06:45.089,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-14,12:06:45.089,E,sensors-hal,handle_sns_client_event:58,	handle_sns_client_event:58, lux_aod: report_ts=561,state=1.000000
+02-14,12:06:45.215,E,sensors-hal,handle_sns_std_sensor_event:79,	handle_sns_std_sensor_event:79, step_count: ts=304233101683069 ns; step = 32716,last report step = 32716, slpi step = 32716,last slpi step = 32716
+02-14,12:06:46.074,E,Parcel,Reading	string not supported here.
+02-14,12:06:47.133,E,sensors-hal,handle_sns_client_event:88,	handle_sns_client_event:88, prox_event: ts=304232227349944, slpi_ts=5841326615572 , raw_adc=33, near_far=0, distance=5.000000
+02-14,12:06:47.589,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-14,12:06:48.769,E,rutils,releaseProcess	1
+02-14,12:06:50.128,E,sensors-hal,handle_sns_client_event:58,	handle_sns_client_event:58, amd_event: report_ts=1037,state=1.000000
+02-14,12:06:50.142,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
