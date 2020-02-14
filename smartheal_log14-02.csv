@@ -169,3 +169,5 @@ Date, Timestamp, Level, Module, Description
 02-14,14:20:04.541,E,Parcel,Reading	NULL string not supported here.
 02-14,14:20:04.933,E,NotificationService,Suppressing	notification from package by user request.
 02-14,14:20:05.503,E,TaskPersister,File	error accessing recents directory (directory doesn't exist?).
+02-14,14:20:09.215,E,MediaTraceUtil,writeTraceToFile	trace is null or size is 0.so return
+02-14,14:20:09.246,E,MediaTraceUtil,writeTraceToFile	trace is null or size is 0.so return
