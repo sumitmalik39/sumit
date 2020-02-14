@@ -12,3 +12,5 @@ Date, Timestamp, Level, Module, Description
 02-14,12:06:18.769,E,rutils,releaseProcess	1
 02-14,12:06:22.783,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-14,12:06:22.866,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+Date, Timestamp, Level, Module, Description
+02-14,12:06:39.780,E,DreamController,Unable	to bind dream service: Intent { act=android.service.dreams.DreamService flg=0x800000 cmp=com.google.android.deskclock/com.android.deskclock.Screensaver }
