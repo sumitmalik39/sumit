@@ -41,3 +41,5 @@ Date, Timestamp, Level, Module, Description
 02-14,12:06:50.142,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
 Date, Timestamp, Level, Module, Description
 02-14,12:07:09.731,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+Date, Timestamp, Level, Module, Description
+02-14,12:07:18.770,E,rutils,releaseProcess	1
