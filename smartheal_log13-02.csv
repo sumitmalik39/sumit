@@ -1,4 +1,2 @@
 Date, Timestamp, Level, Module, Description
-02-14,12:03:26.847,E,Parcel,Reading	a NULL string not supported here.
-02-14,12:03:26.864,E,Parcel,Reading	a NULL string not supported here.
-02-14,12:03:26.891,E,Parcel,Reading	a NULL string not supported here.
+02-14,12:05:18.768,E,rutils,releaseProcess	1
