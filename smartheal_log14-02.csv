@@ -69,3 +69,5 @@ Date, Timestamp, Level, Module, Description
 02-14,12:21:48.789,E,rutils,releaseProcess	1
 02-14,12:22:04.068,E,Parcel,Reading	string not supported here.
 02-14,12:22:18.790,E,rutils,releaseProcess	1
+Date, Timestamp, Level, Module, Description
+02-14,12:25:04.079,E,Parcel,Reading	string not supported here.
