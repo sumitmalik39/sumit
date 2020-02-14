@@ -1,2 +1,6 @@
 Date, Timestamp, Level, Module, Description
-02-14,15:35:57.143,E,rutils,releaseProcess	1
+02-14,15:36:01.643,E,libc,Access	denied finding property "vendor.mdlogger.Running"
+02-14,15:36:02.632,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,15:36:02.677,E,CheckPermission,Permission	access location pid=21405, uid=10195, des=android.location.ILocationManager code=5
+02-14,15:36:02.709,E,CheckPermission,Permission	access location pid=21405, uid=10195, des=android.location.ILocationManager code=5
+02-14,15:36:02.981,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
