@@ -73,3 +73,7 @@ Date, Timestamp, Level, Module, Description
 02-14,12:25:04.079,E,Parcel,Reading	string not supported here.
 02-14,12:25:09.883,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
 02-14,12:25:18.794,E,rutils,releaseProcess	1
+02-14,12:25:36.393,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-14,12:25:37.150,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-14,12:25:37.262,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-14,12:25:37.345,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
