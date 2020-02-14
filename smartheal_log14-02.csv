@@ -1,6 +1,7 @@
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-14,15:36:01.643,E,libc,Access	denied finding property "vendor.mdlogger.Running"
 02-14,15:36:02.632,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
 02-14,15:36:02.677,E,CheckPermission,Permission	access location pid=21405, uid=10195, des=android.location.ILocationManager code=5
@@ -79,3 +80,10 @@ Date, Timestamp, Level, Module, Description
 02-14,15:37:54.313,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
 02-14,15:37:54.359,E,sensors-hal,handle_sns_std_sensor_event:79,	step_count: ts=316902245330750 ns; step = 33648,last report step = 33648, slpi step = 33648,last slpi step = 33648
 02-14,15:37:55.295,E,Parcel,Reading	string not supported here.
+02-14,15:37:59.374,E,sensors-hal,handle_sns_client_event:58,	amd_event: report_ts=1168,state=1.000000
+02-14,15:37:59.382,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-14,15:38:00.317,E,FingerprintService,writeLcdHighLightPath	0
+02-14,15:38:00.318,E,[GF_HAL][FingerprintCore],[cancel]	Fingerprint cancel.
+02-14,15:38:00.325,E,[GF_HAL][Device],[enable_tp]	mode = 0.
+02-14,15:38:00.846,E,libc,Access	denied finding property "persist.report.tid"
+02-14,15:38:00.923,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
