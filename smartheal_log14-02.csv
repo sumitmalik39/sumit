@@ -1,6 +1,55 @@
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-14,15:36:01.643,E,libc,Access	denied finding property "vendor.mdlogger.Running"
 02-14,15:36:02.632,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
 02-14,15:36:02.677,E,CheckPermission,Permission	access location pid=21405, uid=10195, des=android.location.ILocationManager code=5
 02-14,15:36:02.709,E,CheckPermission,Permission	access location pid=21405, uid=10195, des=android.location.ILocationManager code=5
 02-14,15:36:02.981,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,15:37:40.224,E,Parcel,Reading	string not supported here.
+02-14,15:37:44.452,E,sensors-hal,handle_sns_client_event:58,	amd_event: report_ts=1167,state=2.000000
+02-14,15:37:44.487,E,FingerprintHal,fingerprint_authenticateAsType	
+02-14,15:37:44.487,E,[GF_HAL][Device],[enable_tp]	mode = 1.
+02-14,15:37:44.515,E,android.hardware.biometrics.fingerprint@2.1-service,vendorAcquiredFilter:	1003
+02-14,15:37:44.531,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-14,15:37:45.464,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-14,15:37:45.493,E,Parcel,Reading	string not supported here.
+02-14,15:37:45.519,E,oiface,DynamicFps	is not enabled!
+02-14,15:37:45.525,E,InputReader,POWER	Key comes, notifyKey - eventTime=153023725006000, deviceId=4, source=0x101, policyFlags=0x0, action=0x1, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=153023623560000
+02-14,15:37:45.564,E,WifiStateMachine,getWifiLinkLayerStats	called without an interface
+02-14,15:37:45.568,E:,Servic,not	available yet
+02-14,15:37:45.571,E,OMX-VDEC-1080P,Unsupported	output color format for c2d (2141391876)
+02-14,15:37:45.571,E,OMX-VDEC-1080P,Setting	color format failed
+02-14,15:37:45.575,E,OppoWifiStateMachine2,getWifiLinkLayerStats	called without an interface
+02-14,15:37:45.585,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.storeANWBufferInMetadata not implemented
+02-14,15:37:45.585,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.configureVideoTunnelMode not implemented
+02-14,15:37:45.585,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.useAndroidNativeBuffer is supported
+02-14,15:37:45.585,E,OMX-VDEC-1080P,get_parameter:	unknown param 7f000046
+02-14,15:37:45.585,E,OMXNodeInstance,getParameter(0xe7c50dc4:qcom.decoder.avc,	??(0x7f000046)) ERROR: UnsupportedIndex(0x8000101a)
+02-14,15:37:45.586,E,OMX-VDEC-1080P,set_parameter:	Error: 0x80001019, setting param 0x7f00005d
+02-14,15:37:45.586,E,OMXNodeInstance,setParameter(0xe7c50dc4:qcom.decoder.avc,	OMX.google.android.index.allocateNativeHandle(0x7f00005d): Output:1 en=0) ERROR: UnsupportedSetting(0x80001019)
+02-14,15:37:45.586,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.storeANWBufferInMetadata not implemented
+02-14,15:37:45.587,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.587,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.587,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.588,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.589,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.589,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.590,E,soundtrigger,audio_extn_sound_trigger_set_parameters:	str_params NULL
+02-14,15:37:45.590,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.590,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.591,E,OMXNodeInstance,getConfig(0xe7c50dc4:qcom.decoder.avc,	??(0x7f000062)) ERROR: UnsupportedSetting(0x80001019)
+02-14,15:37:45.595,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.598,E,libc,Access	denied finding property "vendor.mdlogger.Running"
+02-14,15:37:45.606,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.607,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.607,E,OMX-VDEC-1080P,Extension:	not implemented
+02-14,15:37:45.623,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.623,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.623,E,OMXNodeInstance,getConfig(0xe7c50dc4:qcom.decoder.avc,	??(0x7f000062)) ERROR: UnsupportedSetting(0x80001019)
+02-14,15:37:45.628,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.628,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.628,E,OMX-VDEC-1080P,Extension:	not implemented
+02-14,15:37:45.641,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.641,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-14,15:37:45.642,E,OMXNodeInstance,getConfig(0xe7c50dc4:qcom.decoder.avc,	??(0x7f000062)) ERROR: UnsupportedSetting(0x80001019)
+02-14,15:37:45.645,E,OMX-VDEC-1080P,Extension:	OMX.QTI.index.config.video.getdsmode not implemented
