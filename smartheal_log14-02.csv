@@ -1,2 +1,66 @@
 Date, Timestamp, Level, Module:, Description
-02-14,15:31:31.611,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,15:31:44.901,E,cn.xender,Not	since process cannot load the jdwp agent.
+02-14,15:31:44.932,E,com.mygate.use,Not	since process cannot load the jdwp agent.
+02-14,15:31:45.136,E,CheckPermission,_bluetooth	1 
+02-14,15:31:45.185,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.199,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.223,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.224,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.228,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.228,E,android.vendin,Not	since process cannot load the jdwp agent.
+02-14,15:31:45.228,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.228,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.228,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.228,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.231,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.233,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.236,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.244,E,Diag_Lib,Diag_LSM_Init:	Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+02-14,15:31:45.371,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.420,E,sensors-hal,handle_sns_std_sensor_event:487,	gyro_sample_cal: ts=316533266121825 ns; value = [0.006662, -0.010520, 0.000862], status = 3
+02-14,15:31:45.461,E,sensors-hal,handle_sns_std_sensor_event:487,	gyro_sample_cal: ts=316533316121825 ns; value = [0.000638, -0.003461, -0.001961], status = 3
+02-14,15:31:45.474,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.475,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.475,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.475,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.475,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.475,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.475,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.486,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.492,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.493,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.493,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.493,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.493,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-14,15:31:45.500,E,sensors-hal,handle_sns_std_sensor_event:487,	gyro_sample_cal: ts=316533366121825 ns; value = [-0.001176, -0.001647, -0.000644], status = 3
+02-14,15:31:45.646,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,15:31:45.647,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,15:31:45.760,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,15:31:45.804,E,OppoPackageManager,parserFilterAppList()	xml empty, return.
+02-14,15:31:45.808,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.816,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.817,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.820,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.824,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.830,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.834,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.840,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.845,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.846,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.849,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.855,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.858,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.859,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.863,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.864,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.882,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.886,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,15:31:45.888,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-14,15:31:45.889,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.901,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.906,E,Parcel,Reading	string not supported here.
+02-14,15:31:45.922,E,iders.download,Not	since process cannot load the jdwp agent.
+02-14,15:31:46.083,E,Parcel,Reading	string not supported here.
+02-14,15:31:46.090,E,Parcel,Reading	string not supported here.
+02-14,15:31:46.099,E,Parcel,Reading	string not supported here.
+02-14,15:31:46.141,E,dboxed_process,Not	since process cannot load the jdwp agent.
