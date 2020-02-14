@@ -1,3 +1,10 @@
 Date, Timestamp, Level, Module, Description
 02-14,12:05:53.186,E,SQLiteCastStore,Skip	CastDeviceInfo: "Nearby device" (__cast_nearby___V_e47514ec-d78e-4ffb-888b-7242df1234ea)
 02-14,12:05:53.221,E,Parcel,Reading	string not supported here.
+Date, Timestamp, Level, Module, Description
+02-14,12:06:09.728,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+02-14,12:06:15.567,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-14,12:06:15.624,E,QC-time-services,Receive	Passed == base = 12, unit = 1, operation = 0, result = 0
+02-14,12:06:15.625,E,QC-time-services,Daemon:	Time-services: Waiting to acceptconnection
+02-14,12:06:15.631,E,QC-time-services,Receive	Passed == base = 13, unit = 1, operation = 0, result = 0
+02-14,12:06:15.632,E,QC-time-services,Daemon:	Time-services: Waiting to acceptconnection
