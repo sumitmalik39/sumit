@@ -1,6 +1,15 @@
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date,Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 02-17,11:53:48.461,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
@@ -250,3 +259,5 @@ Date, Timestamp, Level, Module, Description
 02-17,11:55:03.774,E,Parcel,Reading	string not supported here.
 02-17,11:55:03.953,E,Parcel,Reading	string not supported here.
 02-17,11:56:45.255,E,Parcel,Reading	string not supported here.
+02-17,12:12:54.691,E,rutils,releaseProcess	1
+02-17,12:12:57.009,E,Parcel,Reading	NULL string not supported here.
