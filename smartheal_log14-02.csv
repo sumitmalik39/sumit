@@ -2,6 +2,9 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 Date,Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
@@ -263,3 +266,9 @@ Date, Timestamp, Level, Module, Description
 02-17,12:12:54.691,E,rutils,releaseProcess	1
 02-17,12:12:57.009,E,Parcel,Reading	NULL string not supported here.
 02-17,12:13:02.542,E,Parcel,Reading	string not supported here.
+02-17,12:14:24.693,E,rutils,releaseProcess	1
+02-17,12:14:27.124,E,Parcel,Reading	string not supported here.
+02-17,12:14:27.775,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'INTERFACE' not found
+02-17,12:14:27.775,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
+02-17,12:14:27.775,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
+02-17,12:14:27.775,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'UID' not found
