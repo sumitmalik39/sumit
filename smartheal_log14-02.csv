@@ -2,6 +2,7 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,11:35:24.639,E,rutils,releaseProcess	1
 02-17,11:35:26.442,E,Parcel,Reading	a NULL string not supported here.
 02-17,11:35:26.472,E,Parcel,Reading	a NULL string not supported here.
@@ -47,3 +48,6 @@ Date, Timestamp, Level, Module, Description
 02-17,11:37:50.461,E,QC-time-services,Receive	Passed == base = 13, unit = 1, operation = 0, result = 0
 02-17,11:37:50.461,E,QC-time-services,Daemon:	Time-services: Waiting to acceptconnection
 02-17,11:37:54.641,E,rutils,releaseProcess	1
+02-17,11:38:02.270,E,Parcel,Reading	string not supported here.
+02-17,11:38:02.392,E,Parcel,Reading	string not supported here.
+02-17,11:38:02.409,E,Parcel,Reading	string not supported here.
