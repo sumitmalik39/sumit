@@ -1,6 +1,7 @@
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'INTERFACE' not found
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
@@ -160,3 +161,7 @@ Date, Timestamp, Level, Module, Description
 02-17,16:26:13.359,E,CelloPrewarmer,at	
 02-17,16:26:13.359,E,CelloPrewarmer,at	
 02-17,16:26:14.272,E,TaskPersister,File	error accessing recents directory (directory doesn't exist?).
+02-17,16:26:24.384,E,oiface,DynamicFps	is not enabled!
+02-17,16:26:25.708,E,hypnusd,same	package name, skip
+02-17,16:26:25.709,E,hypnusd,same	package name, skip
+02-17,16:26:28.303,E,TaskPersister,File	error accessing recents directory (directory doesn't exist?).
