@@ -1,5 +1,9 @@
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,11:35:24.639,E,rutils,releaseProcess	1
 02-17,11:35:26.442,E,Parcel,Reading	a NULL string not supported here.
 02-17,11:35:26.472,E,Parcel,Reading	a NULL string not supported here.
 02-17,11:35:26.492,E,Parcel,Reading	NULL string not supported here.
+02-17,11:35:50.513,E,Parcel,Reading	string not supported here.
+02-17,11:35:54.640,E,rutils,releaseProcess	1
+02-17,11:35:56.767,E,AudioFlinger,getNextBuffer	getNextBuffer pid: 22089, get null buffer
