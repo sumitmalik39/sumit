@@ -1,3 +1,9 @@
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module:, Description
 Date, Timestamp, Level, Module:, Description
 Date, Timestamp, Level, Module:, Description
 02-14,16:34:22.849,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
@@ -11,3 +17,51 @@ Date, Timestamp, Level, Module:, Description
 02-14,16:38:36.184,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-14,16:38:36.541,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
 02-14,16:38:40.837,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,11:23:07.652,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.394,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,11:23:10.447,E,oiface,DynamicFps	is not enabled!
+02-17,11:23:10.471,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-17,11:23:10.494,E,.android.chrom,Not	since process cannot load the jdwp agent.
+02-17,11:23:10.575,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:23:10.603,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.609,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.632,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.632,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
+02-17,11:23:10.633,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
+02-17,11:23:10.653,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.669,E,Parcel,Reading	a NULL string not supported here.
+02-17,11:23:10.704,E,Parcel,Reading	a NULL string not supported here.
+02-17,11:23:10.712,E,Parcel,Reading	a NULL string not supported here.
+02-17,11:23:10.717,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.722,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.747,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.748,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.750,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.752,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.759,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.761,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.765,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.821,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.838,E,DeviceScanner,[BLE]	start scan because the Bluetooth is disabled.
+02-17,11:23:10.851,E,DeviceScanner,[BLE]	start scan because the Bluetooth is disabled.
+02-17,11:23:10.857,E,Parcel,Reading	string not supported here.
+02-17,11:23:10.876,E,DatabaseUtils,Writing	exception to parcel
+02-17,11:23:10.876,E,DatabaseUtils,java.lang.SecurityException:	Permission Denial: reading com.android.providers.media.MediaProvider uri content://media/external/video/media/45421 from pid=32105, uid=10108 requires android.permission.READ_EXTERNAL_STORAGE, or grantUriPermission()
+02-17,11:23:10.876,E,DatabaseUtils,at	android.content.ContentProvider.enforceReadPermissionInner(ContentProvider.java:644)
+02-17,11:23:10.876,E,DatabaseUtils,at	com.android.providers.media.MediaProvider.enforceReadPermissionInner(MediaProvider.java:801)
+02-17,11:23:10.876,E,DatabaseUtils,at	android.content.ContentProvider$Transport.enforceReadPermission(ContentProvider.java:507)
+02-17,11:23:10.876,E,DatabaseUtils,at	android.content.ContentProvider$Transport.query(ContentProvider.java:218)
+02-17,11:23:10.876,E,DatabaseUtils,at	android.content.ContentProviderNative.onTransact(ContentProviderNative.java:102)
+02-17,11:23:10.876,E,DatabaseUtils,at	android.os.Binder.execTransact(Binder.java:731)
+02-17,11:23:10.881,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-17,11:23:10.883,E,Parcel,Reading	string not supported here.
+02-17,11:23:11.044,E,cr_BTSPrefs,No	for task id: 100
+02-17,11:23:11.044,E,cr_BkgrdTaskScheduler,Task	canceled because no data was found instorage or data was invalid
+02-17,11:23:11.168,E,CheckPermission,_bluetooth	1 
+02-17,11:23:11.216,E,dboxed_process,Not	since process cannot load the jdwp agent.
+02-17,11:23:11.252,E,ileged_process,Not	since process cannot load the jdwp agent.
+02-17,11:23:11.308,E,cr_CompositorSurfaceMgr,Transitioning	with format: -1
+02-17,11:23:12.032,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
+02-17,11:23:12.032,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
+02-17,11:23:12.058,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
+02-17,11:23:12.058,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
