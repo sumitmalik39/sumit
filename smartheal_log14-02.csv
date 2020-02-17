@@ -1,2 +1,8 @@
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,16:48:46.200,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,16:48:53.841,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,16:48:53.919,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+02-17,16:48:55.338,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-17,16:48:56.917,E,Parcel,Reading	string not supported here.
+02-17,16:48:59.642,E,rutils,releaseProcess	1
