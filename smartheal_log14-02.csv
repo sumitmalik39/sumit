@@ -6,6 +6,7 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,11:35:24.639,E,rutils,releaseProcess	1
 02-17,11:35:26.442,E,Parcel,Reading	a NULL string not supported here.
 02-17,11:35:26.472,E,Parcel,Reading	a NULL string not supported here.
@@ -55,3 +56,22 @@ Date, Timestamp, Level, Module, Description
 02-17,11:38:02.392,E,Parcel,Reading	string not supported here.
 02-17,11:38:02.409,E,Parcel,Reading	string not supported here.
 02-17,11:41:24.645,E,rutils,releaseProcess	1
+02-17,11:41:33.926,E,AudioFlinger,getNextBuffer	getNextBuffer pid: 22089, get null buffer
+02-17,11:41:34.369,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.398,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.444,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.450,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.465,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.473,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.476,E,Parcel,Reading	string not supported here.
+02-17,11:41:34.480,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.483,E,Parcel,Reading	string not supported here.
+02-17,11:41:34.486,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.517,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.527,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.535,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:41:34.542,E,Parcel,Reading	string not supported here.
+02-17,11:41:34.545,E,Parcel,Reading	string not supported here.
+02-17,11:41:34.847,E,OMXNodeInstance,setConfig(0xeaaa6a20:google.aac.decoder,	ConfigPriority(0x6f800002)) ERROR: Undefined(0x80001001)
+02-17,11:41:34.849,E,OMXNodeInstance,setConfig(0xeaaa6a20:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:41:34.850,E,OMXNodeInstance,getConfig(0xeaaa6a20:google.aac.decoder,	ERROR: Undefined(0x80001001)
