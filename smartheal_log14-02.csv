@@ -1,6 +1,7 @@
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,16:48:46.200,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-17,16:48:53.841,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-17,16:48:53.919,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
@@ -19,4 +20,5 @@ Date, Timestamp, Level, Module, Description
 02-17,16:52:52.377,E,Parcel,Reading	string not supported here.
 02-17,16:52:53.926,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
 02-17,16:52:57.116,E,Parcel,Reading	string not supported here.
+02-17,16:52:59.645,E,rutils,releaseProcess	1
 02-17,16:52:59.645,E,rutils,releaseProcess	1
