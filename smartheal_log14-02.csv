@@ -7,6 +7,7 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'INTERFACE' not found
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
@@ -181,3 +182,38 @@ Date, Timestamp, Level, Module, Description
 02-17,16:42:37.444,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-17,16:42:38.803,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-17,16:42:39.451,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-17,16:42:44.488,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,16:42:44.515,E,RecyclerView,No	skipping layout
+02-17,16:42:44.673,E,RecyclerView,No	skipping layout
+02-17,16:42:45.429,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-17,16:42:45.502,E,RecyclerView,No	skipping layout
+02-17,16:42:45.543,E:,Reques,requires	requires android.permission.RECORD_AUDIO
+02-17,16:42:45.544,E,AudioPolicyIntefaceImpl,getInputForAttr	getInputForAttr permission denied: recording not allowed for uid 10141 pid 11312
+02-17,16:42:45.544,E,AudioFlinger,createRecord()	createRecord() checkRecordThread_l failed
+02-17,16:42:45.544,E,IAudioFlinger,createRecord	-22
+02-17,16:42:45.544,E,AudioRecord,AudioFlinger	create record track, status: -22
+02-17,16:42:45.544,E,AudioRecord-JNI,Error	instance: initialization check failed with status -22.
+02-17,16:42:45.547,E,android.media.AudioRecord,Error	when initializing native AudioRecord object.
+02-17,16:42:45.549,E:,Reques,requires	requires android.permission.RECORD_AUDIO
+02-17,16:42:45.549,E,AudioPolicyIntefaceImpl,getInputForAttr	getInputForAttr permission denied: recording not allowed for uid 10141 pid 11312
+02-17,16:42:45.549,E,AudioFlinger,createRecord()	createRecord() checkRecordThread_l failed
+02-17,16:42:45.549,E,IAudioFlinger,createRecord	-22
+02-17,16:42:45.549,E,AudioRecord,AudioFlinger	create record track, status: -22
+02-17,16:42:45.550,E,AudioRecord-JNI,Error	instance: initialization check failed with status -22.
+02-17,16:42:45.550,E,android.media.AudioRecord,Error	when initializing native AudioRecord object.
+02-17,16:42:45.552,E:,Reques,requires	requires android.permission.RECORD_AUDIO
+02-17,16:42:45.552,E,AudioPolicyIntefaceImpl,getInputForAttr	getInputForAttr permission denied: recording not allowed for uid 10141 pid 11312
+02-17,16:42:45.552,E,AudioFlinger,createRecord()	createRecord() checkRecordThread_l failed
+02-17,16:42:45.552,E,IAudioFlinger,createRecord	-22
+02-17,16:42:45.552,E,AudioRecord,AudioFlinger	create record track, status: -22
+02-17,16:42:45.552,E,AudioRecord-JNI,Error	instance: initialization check failed with status -22.
+02-17,16:42:45.553,E,android.media.AudioRecord,Error	when initializing native AudioRecord object.
+02-17,16:42:45.657,E,Parcel,Reading	a NULL string not supported here.
+02-17,16:42:45.658,E,Parcel,Reading	string not supported here.
+02-17,16:42:45.661,E,Parcel,Reading	a NULL string not supported here.
+02-17,16:42:45.698,E,Parcel,Reading	a NULL string not supported here.
+02-17,16:42:45.700,E,Parcel,Reading	a NULL string not supported here.
+02-17,16:42:45.702,E,Parcel,Reading	a NULL string not supported here.
+02-17,16:42:46.267,E,Parcel,Reading	NULL string not supported here.
+02-17,16:42:47.510,E,SpannableStringBuilder,SPAN_EXCLUSIVE_EXCLUSIVE	have a zero length
+02-17,16:42:47.510,E,SpannableStringBuilder,SPAN_EXCLUSIVE_EXCLUSIVE	have a zero length
