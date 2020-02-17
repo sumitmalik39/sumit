@@ -2,6 +2,7 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,11:53:48.461,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
 02-17,11:53:52.367,E,InputReader,POWER	Key comes, notifyKey - eventTime=282943515324000, deviceId=4, source=0x101, policyFlags=0x0, action=0x0, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=282943515324000
 02-17,11:53:52.390,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
@@ -248,3 +249,4 @@ Date, Timestamp, Level, Module, Description
 02-17,11:55:03.690,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
 02-17,11:55:03.774,E,Parcel,Reading	string not supported here.
 02-17,11:55:03.953,E,Parcel,Reading	string not supported here.
+02-17,11:56:45.255,E,Parcel,Reading	string not supported here.
