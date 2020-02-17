@@ -1,6 +1,7 @@
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,11:53:48.461,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
 02-17,11:53:52.367,E,InputReader,POWER	Key comes, notifyKey - eventTime=282943515324000, deviceId=4, source=0x101, policyFlags=0x0, action=0x0, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=282943515324000
 02-17,11:53:52.390,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
@@ -126,3 +127,124 @@ Date, Timestamp, Level, Module, Description
 02-17,11:54:53.442,E,OMXNodeInstance,setConfig(0xeb00f920:google.aac.decoder,	ERROR: Undefined(0x80001001)
 02-17,11:54:53.444,E,OMXNodeInstance,setConfig(0xeb00f920:google.aac.decoder,	ERROR: Undefined(0x80001001)
 02-17,11:54:53.445,E,OMXNodeInstance,getConfig(0xeb00f920:google.aac.decoder,	ConfigAndroidVendorExtension(0x6f100004)) ERROR: Undefined(0x80001001)
+02-17,11:54:57.468,E,.android.chrom,Not	since process cannot load the jdwp agent.
+02-17,11:54:57.530,E,earchbox:searc,Not	since process cannot load the jdwp agent.
+02-17,11:54:57.571,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-17,11:54:57.619,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,11:54:57.677,E,QS,/storage/emulated/0/Android/data/com.jio.media.jiobeats/files/albumArts/http%3A%2F%2Fc.saavncdn.com%2F279%2FMashoor-Bewde-Haryanvi-2019-20191010192807-500x500.jpg	file or directory)
+02-17,11:54:57.677,E,QS,java.io.FileNotFoundException:	such file or directory)
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.677,E,QS,at	
+02-17,11:54:57.678,E,QS,/storage/emulated/0/Android/data/com.jio.media.jiobeats/files/albumArts/http%3A%2F%2Fc.saavncdn.com%2F279%2FMashoor-Bewde-Haryanvi-2019-20191010192807-500x500.jpg	file or directory)
+02-17,11:54:57.678,E,QS,java.io.FileNotFoundException:	such file or directory)
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.678,E,QS,at	
+02-17,11:54:57.884,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.888,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.889,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.892,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.894,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.895,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.899,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.900,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.901,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.902,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.905,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.906,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.910,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.924,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.970,E,Parcel,Reading	string not supported here.
+02-17,11:54:57.986,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.046,E,DeviceScanner,[BLE]	start scan because the Bluetooth is disabled.
+02-17,11:54:58.065,E,Parcel,Reading	a NULL string not supported here.
+02-17,11:54:58.078,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.096,E,Parcel,Reading	NULL string not supported here.
+02-17,11:54:58.096,E,DeviceScanner,[BLE]	start scan because the Bluetooth is disabled.
+02-17,11:54:58.121,E,Parcel,Reading	NULL string not supported here.
+02-17,11:54:58.133,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.359,E,cr_BTSPrefs,No	for task id: 100
+02-17,11:54:58.360,E,cr_BkgrdTaskScheduler,Task	canceled because no data was found instorage or data was invalid
+02-17,11:54:58.392,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.406,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.412,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.412,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.415,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.468,E,CheckPermission,_bluetooth	1 
+02-17,11:54:58.477,E,id.partnersetu,Not	since process cannot load the jdwp agent.
+02-17,11:54:58.478,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.479,E,Parcel,Reading	string not supported here.
+02-17,11:54:58.557,E,CheckPermission,_bluetooth	1 
+02-17,11:54:58.604,E,dboxed_process,Not	since process cannot load the jdwp agent.
+02-17,11:54:58.662,E,ileged_process,Not	since process cannot load the jdwp agent.
+02-17,11:54:58.773,E,cr_CompositorSurfaceMgr,Transitioning	with format: -1
+02-17,11:54:59.815,E,Parcel,Reading	string not supported here.
+02-17,11:54:59.861,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
+02-17,11:54:59.862,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
+02-17,11:54:59.912,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
+02-17,11:54:59.913,E,chromium,[ERROR:tile_manager.cc(776)]	memory limits exceeded, some content may not draw
+02-17,11:55:00.121,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:55:00.122,E,Parcel,Reading	string not supported here.
+02-17,11:55:00.126,E,Parcel,Reading	string not supported here.
+02-17,11:55:00.168,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:55:00.174,E,Parcel,Reading	string not supported here.
+02-17,11:55:00.183,E,Parcel,Reading	string not supported here.
+02-17,11:55:00.192,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:55:00.195,E,Parcel,Reading	string not supported here.
+02-17,11:55:00.200,E,Parcel,Reading	string not supported here.
+02-17,11:55:00.232,E,Parcel,Reading	string not supported here.
+02-17,11:55:00.390,E,Parcel,Reading	string not supported here.
+02-17,11:55:01.014,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,11:55:01.411,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,11:55:01.493,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-17,11:55:02.072,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,11:55:02.154,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-17,11:55:02.320,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,11:55:02.402,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-17,11:55:02.801,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,11:55:03.087,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,11:55:03.170,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-17,11:55:03.566,E,Parcel,Reading	string not supported here.
+02-17,11:55:03.689,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:55:03.690,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:55:03.774,E,Parcel,Reading	string not supported here.
+02-17,11:55:03.953,E,Parcel,Reading	string not supported here.
