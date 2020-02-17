@@ -5,6 +5,8 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 Date,Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
@@ -272,3 +274,97 @@ Date, Timestamp, Level, Module, Description
 02-17,12:14:27.775,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
 02-17,12:14:27.775,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
 02-17,12:14:27.775,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'UID' not found
+02-17,15:22:49.704,E,soundtrigger,audio_extn_sound_trigger_set_parameters:	str_params NULL
+02-17,15:22:49.772,E,audio_hw_primary,offload_thread_loop:	Compress handle is NULL
+02-17,15:22:49.777,E,soundtrigger,audio_extn_sound_trigger_set_parameters:	str_params NULL
+02-17,15:22:49.788,E,soundtrigger,audio_extn_sound_trigger_set_parameters:	audio_extn_sound_trigger_set_parameters: str_params NULL
+02-17,15:22:49.824,E,soundtrigger,audio_extn_sound_trigger_check_ec_ref_enable:	audio_extn_sound_trigger_check_ec_ref_enable: st_dev NULL
+02-17,15:22:49.824,E,soundtrigger,audio_extn_sound_trigger_update_ec_ref_status:	audio_extn_sound_trigger_update_ec_ref_status: st_dev NULL
+02-17,15:22:49.827,E,soundtrigger,audio_extn_sound_trigger_check_ec_ref_enable:	audio_extn_sound_trigger_check_ec_ref_enable: st_dev NULL
+02-17,15:22:49.827,E,soundtrigger,audio_extn_sound_trigger_update_ec_ref_status:	audio_extn_sound_trigger_update_ec_ref_status: st_dev NULL
+02-17,15:22:49.830,E,soundtrigger,audio_extn_sound_trigger_check_ec_ref_enable:	audio_extn_sound_trigger_check_ec_ref_enable: st_dev NULL
+02-17,15:22:49.830,E,soundtrigger,audio_extn_sound_trigger_update_ec_ref_status:	audio_extn_sound_trigger_update_ec_ref_status: st_dev NULL
+02-17,15:22:52.783,E,sensors-hal,handle_sns_client_event:58,	handle_sns_client_event:58, amd_event: report_ts=1883,state=2.000000
+02-17,15:22:52.817,E,FingerprintHal,fingerprint_authenticateAsType	
+02-17,15:22:52.817,E,[GF_HAL][Device],[enable_tp]	mode = 1.
+02-17,15:22:52.874,E,android.hardware.biometrics.fingerprint@2.1-service,vendorAcquiredFilter:	1003
+02-17,15:22:52.893,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-17,15:22:53.567,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+02-17,15:22:59.511,E,rutils,releaseProcess	1
+02-17,15:22:59.555,E,CheckPermission,_bluetooth	code = 15 
+02-17,15:22:59.593,E,CheckPermission,_bluetooth	code = 15 
+02-17,15:22:59.598,E,CheckPermission,_bluetooth	code = 10 
+02-17,15:22:59.681,E,MCS2.0_CIPHER_ALGO,checkSign	
+02-17,15:22:59.935,E,neodaemon,ERROR	 Could not create fifo file status: -1, error: Permission denied
+02-17,15:22:59.964,E,android.hardware.usb@1.0-service,uevent	uevent received SUBSYSTEM=dual_role_usb
+02-17,15:22:59.999,E,BatteryExternalStatsWorker,no	controller energy info supplied for wifi
+02-17,15:22:59.999,E,BatteryExternalStatsWorker,no	controller energy info supplied for bluetooth
+02-17,15:23:00.034,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-17,15:23:00.097,E,oiface,DynamicFps	is not enabled!
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,Unable	data usage from system file
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,X.2Rl:	(Permission denied)
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,Caused	/proc/net/xt_qtaguid/stats (Permission denied)
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.110,E,fb4a.FbTrafficStats,...	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,Unable	data usage from system file
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,X.2Rl:	(Permission denied)
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,Caused	/proc/net/xt_qtaguid/stats (Permission denied)
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,at	
+02-17,15:23:00.111,E,fb4a.FbTrafficStats,...	
+02-17,15:23:00.129,E,Parcel,Reading	string not supported here.
+02-17,15:23:00.158,E,Dpps,AdParseCalibData():729	AdParseCalibData():729 No permission to access or file does not exists, 
+02-17,15:23:00.201,E,Parcel,Reading	string not supported here.
+02-17,15:23:00.207,E,sensors-hal,handle_sns_std_sensor_event:202,	wise_light: lux 388 ,period 0 ms, data c 4
+02-17,15:23:00.226,E,CheckPermission,_bluetooth	= 15 
+02-17,15:23:00.228,E,CheckPermission,_bluetooth	= 15 
+02-17,15:23:00.324,E,m.android.phon,Invalid	ID 0x00000000.
+02-17,15:23:00.362,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:00.368,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:00.371,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:00.376,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:00.377,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:00.379,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:00.379,E,com.oppo.lfeh,Not	since process cannot load the jdwp agent.
+02-17,15:23:00.393,E,Parcel,Reading	string not supported here.
+02-17,15:23:00.415,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:00.415,E,sensors-hal,handle_sns_std_sensor_event:202,	wise_light: lux 399 ,period 84 ms, data c 4
+02-17,15:23:00.421,E,Parcel,Reading	string not supported here.
+02-17,15:23:00.423,E,Parcel,Reading	NULL string not supported here.
+02-17,15:23:00.516,E,com.oppo.logki,Not	since process cannot load the jdwp agent.
+02-17,15:23:00.551,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:00.576,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:00.624,E,sensors-hal,handle_sns_std_sensor_event:202,	wise_light: lux 369 ,period 96 ms, data c 4
