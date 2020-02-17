@@ -1,5 +1,101 @@
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'INTERFACE' not found
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'UID' not found
+02-17,16:26:06.484,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,16:26:06.487,E,ANDR-PERF-JNI,Iop	tryGetService failed
+02-17,16:26:06.557,E,oiface,DynamicFps	is not enabled!
+02-17,16:26:06.580,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-17,16:26:06.603,E,hypnusd,same	package name, skip
+02-17,16:26:06.721,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,16:26:06.794,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-17,16:26:07.186,E:,Servic,not	yet
+02-17,16:26:07.189,E,OMX-VDEC-1080P,Unsupported	color format for c2d (2141391876)
+02-17,16:26:07.189,E,OMX-VDEC-1080P,Setting	format failed
+02-17,16:26:07.197,E,OMX-VDEC-1080P,Extension:	not implemented
+02-17,16:26:07.197,E,OMX-VDEC-1080P,Extension:	not implemented
+02-17,16:26:07.197,E,OMX-VDEC-1080P,Extension:	is supported
+02-17,16:26:07.197,E,OMX-VDEC-1080P,get_parameter:	param 7f000046
+02-17,16:26:07.198,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: UnsupportedIndex(0x8000101a)
+02-17,16:26:07.199,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:07.199,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:07.200,E,OMX-VDEC-1080P,ERROR:	Requirements(#6: 8847360) Requested(#1: 8847360)
+02-17,16:26:07.200,E,OMX-VDEC-1080P,set_parameter:	0x80001005, setting param 0x2000001
+02-17,16:26:07.200,E,OMXNodeInstance,setParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: BadParameter(0x80001005)
+02-17,16:26:07.201,E,OMX-VDEC-1080P,OP	Requirements: Client count(1) insufficient v/s requested(14)
+02-17,16:26:07.201,E,OMX-VDEC-1080P,ERROR:	OP Requirements(#14: 118784) Requested(#1: 118784)
+02-17,16:26:07.201,E,OMX-VDEC-1080P,set_parameter:	Error: 0x80001005, setting param 0x2000001
+02-17,16:26:07.201,E,OMXNodeInstance,setParameter(0xdf7b5004:qcom.decoder.avc,	ParamPortDefinition(0x2000001)) ERROR: BadParameter(0x80001005)
+02-17,16:26:07.205,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:07.212,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-17,16:26:07.228,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:07.256,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:07.265,E,OMX-VDEC-1080P,Extension:	OMX.QTI.index.config.video.getdsmode not implemented
+02-17,16:26:07.303,E:,Servic,not	available yet
+02-17,16:26:07.306,E,OMX-VDEC-1080P,Unsupported	output color format for c2d (2141391876)
+02-17,16:26:07.306,E,OMX-VDEC-1080P,Setting	color format failed
+02-17,16:26:07.313,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.storeANWBufferInMetadata not implemented
+02-17,16:26:07.313,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.configureVideoTunnelMode not implemented
+02-17,16:26:07.313,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.useAndroidNativeBuffer is supported
+02-17,16:26:07.313,E,OMX-VDEC-1080P,get_parameter:	unknown param 7f000046
+02-17,16:26:07.313,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000046)) ERROR: UnsupportedIndex(0x8000101a)
+02-17,16:26:07.315,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:07.315,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:07.316,E,OMX-VDEC-1080P,ERROR:	Requirements(#6: 8847360) Requested(#1: 8847360)
+02-17,16:26:07.316,E,OMX-VDEC-1080P,set_parameter:	0x80001005, setting param 0x2000001
+02-17,16:26:07.316,E,OMXNodeInstance,setParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: BadParameter(0x80001005)
+02-17,16:26:07.317,E,OMX-VDEC-1080P,OP	Requirements: Client count(1) insufficient v/s requested(14)
+02-17,16:26:07.317,E,OMX-VDEC-1080P,ERROR:	OP Requirements(#14: 118784) Requested(#1: 118784)
+02-17,16:26:07.317,E,OMX-VDEC-1080P,set_parameter:	Error: 0x80001005, setting param 0x2000001
+02-17,16:26:07.317,E,OMXNodeInstance,setParameter(0xdf7b5004:qcom.decoder.avc,	ParamPortDefinition(0x2000001)) ERROR: BadParameter(0x80001005)
+02-17,16:26:07.321,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:07.351,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:07.356,E,OMX-VDEC-1080P,Extension:	OMX.QTI.index.config.video.getdsmode not implemented
+02-17,16:26:08.950,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-17,16:26:08.967,E,hypnusd,same	package name, skip
+02-17,16:26:08.984,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,16:26:09.129,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-17,16:26:09.173,E:,Servic,not	available yet
+02-17,16:26:09.176,E,OMX-VDEC-1080P,Unsupported	output color format for c2d (2141391876)
+02-17,16:26:09.176,E,OMX-VDEC-1080P,Setting	color format failed
+02-17,16:26:09.185,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.storeANWBufferInMetadata not implemented
+02-17,16:26:09.185,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.configureVideoTunnelMode not implemented
+02-17,16:26:09.185,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.useAndroidNativeBuffer is supported
+02-17,16:26:09.185,E,OMX-VDEC-1080P,get_parameter:	unknown param 7f000046
+02-17,16:26:09.185,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000046)) ERROR: UnsupportedIndex(0x8000101a)
+02-17,16:26:09.187,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:09.188,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:09.188,E,OMX-VDEC-1080P,ERROR:	IP Requirements(#6: 8847360) Requested(#1: 8847360)
+02-17,16:26:09.188,E,OMX-VDEC-1080P,set_parameter:	Error: 0x80001005, setting param 0x2000001
+02-17,16:26:09.188,E,OMXNodeInstance,setParameter(0xdf7b5004:qcom.decoder.avc,	ParamPortDefinition(0x2000001)) ERROR: BadParameter(0x80001005)
+02-17,16:26:09.191,E,OMX-VDEC-1080P,OP	Requirements: Client count(1) insufficient v/s requested(14)
+02-17,16:26:09.191,E,OMX-VDEC-1080P,ERROR:	OP Requirements(#14: 118784) Requested(#1: 118784)
+02-17,16:26:09.191,E,OMX-VDEC-1080P,set_parameter:	Error: 0x80001005, setting param 0x2000001
+02-17,16:26:09.191,E,OMXNodeInstance,setParameter(0xdf7b5004:qcom.decoder.avc,	ParamPortDefinition(0x2000001)) ERROR: BadParameter(0x80001005)
+02-17,16:26:09.195,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:09.233,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:09.237,E,OMX-VDEC-1080P,Extension:	not implemented
+02-17,16:26:09.244,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-17,16:26:09.296,E:,Servic,not	available yet
+02-17,16:26:09.299,E,OMX-VDEC-1080P,Unsupported	output color format for c2d (2141391876)
+02-17,16:26:09.299,E,OMX-VDEC-1080P,Setting	color format failed
+02-17,16:26:09.308,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.storeANWBufferInMetadata not implemented
+02-17,16:26:09.308,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.configureVideoTunnelMode not implemented
+02-17,16:26:09.308,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.useAndroidNativeBuffer is supported
+02-17,16:26:09.308,E,OMX-VDEC-1080P,get_parameter:	unknown param 7f000046
+02-17,16:26:09.308,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000046)) ERROR: UnsupportedIndex(0x8000101a)
+02-17,16:26:09.311,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:09.311,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:09.312,E,OMX-VDEC-1080P,ERROR:	IP Requirements(#6: 8847360) Requested(#1: 8847360)
+02-17,16:26:09.312,E,OMX-VDEC-1080P,set_parameter:	Error: 0x80001005, setting param 0x2000001
+02-17,16:26:09.312,E,OMXNodeInstance,setParameter(0xdf7b5004:qcom.decoder.avc,	ParamPortDefinition(0x2000001)) ERROR: BadParameter(0x80001005)
+02-17,16:26:09.314,E,OMX-VDEC-1080P,OP	Requirements: Client count(1) insufficient v/s requested(14)
+02-17,16:26:09.314,E,OMX-VDEC-1080P,ERROR:	OP Requirements(#14: 118784) Requested(#1: 118784)
+02-17,16:26:09.314,E,OMX-VDEC-1080P,set_parameter:	Error: 0x80001005, setting param 0x2000001
+02-17,16:26:09.314,E,OMXNodeInstance,setParameter(0xdf7b5004:qcom.decoder.avc,	ParamPortDefinition(0x2000001)) ERROR: BadParameter(0x80001005)
+02-17,16:26:09.318,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	??(0x7f000044)) ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:09.344,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: UnsupportedSetting(0x80001019)
+02-17,16:26:09.348,E,OMX-VDEC-1080P,Extension:	not implemented
+02-17,16:26:10.020,E,TaskPersister,File	error accessing recents directory (directory doesn't exist?).
