@@ -1,0 +1,94 @@
+/*	#define MAXCHARS 1000
+	char *command = NULL;
+	char *pos;
+	
+	command = malloc(sizeof(char)*MAXCHARS);
+	if ((pos=strchr(ModuleName, '\n')) != NULL)
+	    *pos = '\0';
+	
+	
+/*	sprintf(command,"grep %s logcat.txt > edm.txt",ModuleName);
+	system(command);
+	
+	sprintf(command,"awk '/ANR in/{flag=1; next} /ANR in/{flag=0} flag' edm.txt > edm1.txt");
+	system(command);
+	*/
+	
+	if(count_clone==0){
+		sprintf(command,"git clone git@github.com:sumitmalik39/sumit.git");
+		system(command);
+		count_clone=1;
+	}
+	
+	sprintf(command,"sh logcat.sh");
+	system(command);
+
+
+	sprintf(command,"sed '/* daemon/d' logcat_source.txt > log1.txt");
+	system(command);
+	
+	sprintf(command,"sed '/beginning/d' log1.txt > logcat1.txt");
+	system(command);
+	
+	sprintf(command,"sed 's/ *:/:/g' logcat1.txt > logcat2.txt");
+	system(command);
+	
+	sprintf(command,"awk '{print $1,$2,$5,$6,$7}' logcat2.txt > sfin.csv");
+	system(command);
+	
+	//sprintf(command,"awk '{gsub(/[:]/, /2/,$4)}' sfin.csv > sfin1.csv");
+	//sprintf(command,"awk '{gsub('/:/', '  ',$4 )}' sfin.csv > sfin1.csv");
+	//system(command);
+		
+	sprintf(command,"awk '$1=$1' FS=' ' OFS=',' sfin.csv > sfin1.csv");
+	system(command);
+	
+	sprintf(command,"cut -d ' ' -f10- logcat2.txt > lastm.csv");
+	system(command);
+	
+	//sprintf(command,"awk -v myvar=%s '{print ($0 myvar)}' final.csv > final1.csv",ModuleName);
+	
+	sprintf(command,"paste sfin1.csv lastm.csv > log.csv");
+	system(command);
+	
+	/*if(count_title==0){
+		sprintf(command,"sh title_row.sh");
+		system(command);
+		count_title=1;
+	}*/	
+	
+	sprintf(command,"awk -F',' '{$4=substr($4,1,length($4)-1)}1' OFS=',' log.csv >> sumit/smartheal_log14-02.csv");
+	system(command);
+	
+	sprintf(command,"sh title_row.sh");
+	system(command);
+	
+	
+	
+	sprintf(command,"sh gitpush.sh");
+	system(command);
+
+system("rm logcat2.txt logcat1.txt sfin.csv sfin1.csv lastm.csv log.csv ");
+	
+	//system("sudo rm -r sumit");
+	
+
+	//printf("Command Gen: %s \n",command);
+	//system("rm edm.txt edm1.txt sfin.csv sfin1.csv lastm.csv log.csv");
+
+
+	//sprintf(command,"awk -F, '{$6=%s FS $6;}1' OFS=, rawlog2c.txt > rawlog3c.txt",ModuleName);
+	//sprintf(command,"awk '{print $1\",\"$2\",\"$5}' rawlog.txt >sample.csv",ModuleName);
+	
+	//sprintf(command,"logcat -d -v time | grep %s rawlog1.txt> /data/tombstones/rawlog.txt",ModuleName);
+	//printf("Command Gen: %s \n",command);
+	//system(command);
+
+	/*if(count_title==0){
+		sprintf(command,"sed -i '1iDate, Timestamp, Level, Module:, Description' log.csv");
+		system(command);
+		count_title=1;
+	}*/
+	
+	free(command);
+	*/
