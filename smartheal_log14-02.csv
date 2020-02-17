@@ -1,77 +1,104 @@
 Date, Timestamp, Level, Module, Description
-Date, Timestamp, Level, Module, Description
-Date, Timestamp, Level, Module, Description
-Date, Timestamp, Level, Module, Description
-Date, Timestamp, Level, Module, Description
-Date, Timestamp, Level, Module, Description
-Date, Timestamp, Level, Module, Description
-Date, Timestamp, Level, Module, Description
-Date, Timestamp, Level, Module, Description
-02-17,11:35:24.639,E,rutils,releaseProcess	1
-02-17,11:35:26.442,E,Parcel,Reading	a NULL string not supported here.
-02-17,11:35:26.472,E,Parcel,Reading	a NULL string not supported here.
-02-17,11:35:26.492,E,Parcel,Reading	NULL string not supported here.
-02-17,11:35:50.513,E,Parcel,Reading	string not supported here.
-02-17,11:35:54.640,E,rutils,releaseProcess	1
-02-17,11:35:56.767,E,AudioFlinger,getNextBuffer	getNextBuffer pid: 22089, get null buffer
-02-17,11:36:03.994,E,CheckPermission,_bluetooth	code = 15 
-02-17,11:36:04.007,E,CheckPermission,_bluetooth	code = 15 
-02-17,11:36:04.016,E,CheckPermission,_bluetooth	code = 10 
-02-17,11:36:04.023,E,loros.gallery3,Unknown	in runtime_flags: 0x8000
-02-17,11:36:04.029,E,loros.gallery3,Not	since process cannot load the jdwp agent.
-02-17,11:36:04.142,E,GalleryUtils,[getContainerUserStatus]	find class ContainerManeger!
-02-17,11:36:04.142,E,GalleryUtils,java.lang.NoClassDefFoundError:	of: Lcom/thundersoft/security/ContainerManager;
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,Caused	Didn't find class "com.thundersoft.security.ContainerManager" on path: DexPathList[[zip file "/system/framework/org.apache.http.legacy.boot.jar", zip file "/system/framework/com.coloros.statistics.jar", zip file "/system/priv-app/OppoGallery2/OppoGallery2.apk"],nativeLibraryDirectories=[/system/priv-app/OppoGallery2/lib/arm, /system/priv-app/OppoGallery2/OppoGallery2.apk!/lib/armeabi, /system/lib, /system/product/lib, /system/lib, /system/product/lib]]
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,at	
-02-17,11:36:04.142,E,GalleryUtils,...	
-02-17,11:36:05.947,E,RecycleDataManager,notifyDirty	
-02-17,11:36:05.994,E,CheckPermission,_bluetooth	code = 15 
-02-17,11:36:05.998,E,CheckPermission,_bluetooth	code = 15 
-02-17,11:36:06.001,E,CheckPermission,_bluetooth	code = 15 
-02-17,11:36:06.004,E,CheckPermission,_bluetooth	code = 15 
-02-17,11:36:06.519,E,earchbox:searc,Not	since process cannot load the jdwp agent.
-02-17,11:37:50.442,E,QC-time-services,Daemon:	Time-services: Waiting to acceptconnection
-02-17,11:37:50.442,E,QC-time-services,Receive	Passed == base = 12, unit = 1, operation = 0, result = 0
-02-17,11:37:50.461,E,QC-time-services,Receive	Passed == base = 13, unit = 1, operation = 0, result = 0
-02-17,11:37:50.461,E,QC-time-services,Daemon:	Time-services: Waiting to acceptconnection
-02-17,11:37:54.641,E,rutils,releaseProcess	1
-02-17,11:38:02.270,E,Parcel,Reading	string not supported here.
-02-17,11:38:02.392,E,Parcel,Reading	string not supported here.
-02-17,11:38:02.409,E,Parcel,Reading	string not supported here.
-02-17,11:41:24.645,E,rutils,releaseProcess	1
-02-17,11:41:33.926,E,AudioFlinger,getNextBuffer	getNextBuffer pid: 22089, get null buffer
-02-17,11:41:34.369,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.398,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.444,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.450,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.465,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.473,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.476,E,Parcel,Reading	string not supported here.
-02-17,11:41:34.480,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.483,E,Parcel,Reading	string not supported here.
-02-17,11:41:34.486,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.517,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.527,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.535,E,NotificationColorUtil,background	be translucent: #0
-02-17,11:41:34.542,E,Parcel,Reading	string not supported here.
-02-17,11:41:34.545,E,Parcel,Reading	string not supported here.
-02-17,11:41:34.847,E,OMXNodeInstance,setConfig(0xeaaa6a20:google.aac.decoder,	ConfigPriority(0x6f800002)) ERROR: Undefined(0x80001001)
-02-17,11:41:34.849,E,OMXNodeInstance,setConfig(0xeaaa6a20:google.aac.decoder,	ERROR: Undefined(0x80001001)
-02-17,11:41:34.850,E,OMXNodeInstance,getConfig(0xeaaa6a20:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:53:48.461,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+02-17,11:53:52.367,E,InputReader,POWER	Key comes, notifyKey - eventTime=282943515324000, deviceId=4, source=0x101, policyFlags=0x0, action=0x0, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=282943515324000
+02-17,11:53:52.390,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-17,11:53:52.412,E,AP_Sensors,tp_proximity	AP_Sensors: tp_proximity calling driver setDelay 40 ms
+02-17,11:53:52.442,E,Parcel,Reading	string not supported here.
+02-17,11:53:52.452,E,sensors-hal,handle_sns_std_sensor_event:57,	tp_gesture: report_ts = 16943; value = [32.000000]
+02-17,11:53:52.492,E,InputReader,POWER	Key comes, notifyKey - eventTime=282943640758000, deviceId=4, source=0x101, policyFlags=0x0, action=0x1, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=282943515324000
+02-17,11:53:52.501,E,sensors-hal,handle_sns_std_sensor_event:57,	tp_gesture: report_ts = 16944; value = [48.000000]
+02-17,11:53:52.539,E,oiface,DynamicFps	is not enabled!
+02-17,11:53:52.548,E,sensors-hal,handle_sns_std_sensor_event:57,	tp_gesture: report_ts = 16945; value = [56.000000]
+02-17,11:53:52.557,E,FingerprintHal,fingerprint_authenticateAsType	
+02-17,11:53:52.557,E,[GF_HAL][Device],[enable_tp]	mode = 1.
+02-17,11:53:52.650,E,android.hardware.biometrics.fingerprint@2.1-service,vendorAcquiredFilter:	1003
+02-17,11:53:52.691,E,WifiStateMachine,getWifiLinkLayerStats	called without an interface
+02-17,11:53:52.706,E,OppoWifiStateMachine2,getWifiLinkLayerStats	called without an interface
+02-17,11:53:52.713,E,soundtrigger,audio_extn_sound_trigger_set_parameters:	str_params NULL
+02-17,11:53:52.729,E,libc,Access	denied finding property "vendor.mdlogger.Running"
+02-17,11:53:52.773,E,cn.xender,Not	since process cannot load the jdwp agent.
+02-17,11:53:52.846,E,libc,Access	denied finding property "ro.build.flavor"
+02-17,11:53:52.846,E,sensors-hal,handle_sns_client_event:85,	device_orient_event: ts=562660703519702, type=4
+02-17,11:53:53.109,E,CheckPermission,_bluetooth	1 
+02-17,11:53:53.148,E,OppoPackageManager,parserFilterAppList()	xml empty, return.
+02-17,11:53:53.152,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.154,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.157,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.160,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.174,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.182,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.192,E,android.vendin,Not	since process cannot load the jdwp agent.
+02-17,11:53:53.192,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.196,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.201,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.210,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.213,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.276,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.331,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:53:53.335,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:53:53.460,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.461,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.461,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.461,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.461,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.461,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.461,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.462,E,sensors-hal,handle_sns_std_sensor_event:57,	tp_gesture: report_ts = 16946; value = [24.000000]
+02-17,11:53:53.476,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.476,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.477,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.477,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.477,E,libc,Access	property "vendor.camera.aux.packagelist"
+02-17,11:53:53.833,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:53:53.872,E,OppoPackageManager,parserFilterAppList()	xml empty, return.
+02-17,11:53:53.877,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.882,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.885,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.888,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.898,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.912,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.921,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.926,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:53.930,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.935,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.939,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:53.943,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:53.943,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.947,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.953,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.954,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:53.956,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.968,E,Parcel,Reading	string not supported here.
+02-17,11:53:53.982,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:53.995,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.017,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.040,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.048,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.054,E,iders.download,Not	since process cannot load the jdwp agent.
+02-17,11:53:54.055,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.060,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.065,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.067,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.069,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.070,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.077,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.081,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.085,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.085,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.088,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:53:54.092,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.155,E,OMXNodeInstance,setConfig(0xeb00f680:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:53:54.157,E,OMXNodeInstance,setConfig(0xeb00f680:google.aac.decoder,	ConfigPriority(0x6f800002)) ERROR: Undefined(0x80001001)
+02-17,11:53:54.158,E,OMXNodeInstance,getConfig(0xeb00f680:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:53:54.192,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.196,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.200,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.204,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.216,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.221,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.226,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.243,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.258,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.263,E,Parcel,Reading	string not supported here.
+02-17,11:53:54.268,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:53:54.269,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
