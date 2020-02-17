@@ -3,6 +3,9 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,11:35:24.639,E,rutils,releaseProcess	1
 02-17,11:35:26.442,E,Parcel,Reading	a NULL string not supported here.
 02-17,11:35:26.472,E,Parcel,Reading	a NULL string not supported here.
@@ -51,3 +54,4 @@ Date, Timestamp, Level, Module, Description
 02-17,11:38:02.270,E,Parcel,Reading	string not supported here.
 02-17,11:38:02.392,E,Parcel,Reading	string not supported here.
 02-17,11:38:02.409,E,Parcel,Reading	string not supported here.
+02-17,11:41:24.645,E,rutils,releaseProcess	1
