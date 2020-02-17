@@ -1,5 +1,6 @@
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,11:53:48.461,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
 02-17,11:53:52.367,E,InputReader,POWER	Key comes, notifyKey - eventTime=282943515324000, deviceId=4, source=0x101, policyFlags=0x0, action=0x0, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=282943515324000
 02-17,11:53:52.390,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
@@ -103,3 +104,25 @@ Date, Timestamp, Level, Module, Description
 02-17,11:53:54.263,E,Parcel,Reading	string not supported here.
 02-17,11:53:54.268,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
 02-17,11:53:54.269,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,11:54:48.462,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+02-17,11:54:49.161,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:49.178,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:49.185,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:49.227,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:49.590,E,OMXNodeInstance,setConfig(0xeb00ec00:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:54:49.592,E,OMXNodeInstance,setConfig(0xeb00ec00:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:54:49.593,E,OMXNodeInstance,getConfig(0xeb00ec00:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:54:51.517,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:51.520,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:51.528,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:51.589,E,OMXNodeInstance,setConfig(0xeb00f920:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:54:51.591,E,OMXNodeInstance,setConfig(0xeb00f920:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:54:51.592,E,OMXNodeInstance,getConfig(0xeb00f920:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:54:53.321,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:53.337,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:53.341,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:53.345,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:53.387,E,NotificationColorUtil,background	be translucent: #0
+02-17,11:54:53.442,E,OMXNodeInstance,setConfig(0xeb00f920:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:54:53.444,E,OMXNodeInstance,setConfig(0xeb00f920:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-17,11:54:53.445,E,OMXNodeInstance,getConfig(0xeb00f920:google.aac.decoder,	ConfigAndroidVendorExtension(0x6f100004)) ERROR: Undefined(0x80001001)
