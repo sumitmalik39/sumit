@@ -1,5 +1,6 @@
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,11:35:24.639,E,rutils,releaseProcess	1
 02-17,11:35:26.442,E,Parcel,Reading	a NULL string not supported here.
 02-17,11:35:26.472,E,Parcel,Reading	a NULL string not supported here.
@@ -7,3 +8,36 @@ Date, Timestamp, Level, Module, Description
 02-17,11:35:50.513,E,Parcel,Reading	string not supported here.
 02-17,11:35:54.640,E,rutils,releaseProcess	1
 02-17,11:35:56.767,E,AudioFlinger,getNextBuffer	getNextBuffer pid: 22089, get null buffer
+02-17,11:36:03.994,E,CheckPermission,_bluetooth	code = 15 
+02-17,11:36:04.007,E,CheckPermission,_bluetooth	code = 15 
+02-17,11:36:04.016,E,CheckPermission,_bluetooth	code = 10 
+02-17,11:36:04.023,E,loros.gallery3,Unknown	in runtime_flags: 0x8000
+02-17,11:36:04.029,E,loros.gallery3,Not	since process cannot load the jdwp agent.
+02-17,11:36:04.142,E,GalleryUtils,[getContainerUserStatus]	find class ContainerManeger!
+02-17,11:36:04.142,E,GalleryUtils,java.lang.NoClassDefFoundError:	of: Lcom/thundersoft/security/ContainerManager;
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,Caused	Didn't find class "com.thundersoft.security.ContainerManager" on path: DexPathList[[zip file "/system/framework/org.apache.http.legacy.boot.jar", zip file "/system/framework/com.coloros.statistics.jar", zip file "/system/priv-app/OppoGallery2/OppoGallery2.apk"],nativeLibraryDirectories=[/system/priv-app/OppoGallery2/lib/arm, /system/priv-app/OppoGallery2/OppoGallery2.apk!/lib/armeabi, /system/lib, /system/product/lib, /system/lib, /system/product/lib]]
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,at	
+02-17,11:36:04.142,E,GalleryUtils,...	
+02-17,11:36:05.947,E,RecycleDataManager,notifyDirty	
+02-17,11:36:05.994,E,CheckPermission,_bluetooth	code = 15 
+02-17,11:36:05.998,E,CheckPermission,_bluetooth	code = 15 
+02-17,11:36:06.001,E,CheckPermission,_bluetooth	code = 15 
+02-17,11:36:06.004,E,CheckPermission,_bluetooth	code = 15 
+02-17,11:36:06.519,E,earchbox:searc,Not	since process cannot load the jdwp agent.
