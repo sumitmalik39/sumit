@@ -8,6 +8,8 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 Date,Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
@@ -417,3 +419,5 @@ Date, Timestamp, Level, Module, Description
 02-17,15:23:08.409,E,MediaTraceUtil,writeTraceToFile	trace is null or size is 0.so return
 02-17,15:23:08.694,E,libc,Access	denied finding property "ro.build.flavor"
 02-17,15:23:08.695,E,sensors-hal,handle_sns_client_event:85,	device_orient_event: ts=575216532103753, type=4
+02-17,16:01:59.560,E,rutils,releaseProcess	1
+02-17,16:02:00.134,E,Parcel,Reading	string not supported here.
