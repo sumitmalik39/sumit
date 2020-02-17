@@ -7,6 +7,7 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 Date,Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
@@ -368,3 +369,51 @@ Date, Timestamp, Level, Module, Description
 02-17,15:23:00.551,E,Parcel,Reading	a NULL string not supported here.
 02-17,15:23:00.576,E,Parcel,Reading	a NULL string not supported here.
 02-17,15:23:00.624,E,sensors-hal,handle_sns_std_sensor_event:202,	wise_light: lux 369 ,period 96 ms, data c 4
+02-17,15:23:03.552,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:03.728,E,Parcel,Reading	string not supported here.
+02-17,15:23:03.813,E,Parcel,Reading	string not supported here.
+02-17,15:23:03.829,E,NotificationService,Suppressing	notification from package by user request.
+02-17,15:23:04.792,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:04.796,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:04.800,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:04.801,E,SurfaceComposerClient,SurfaceComposerClient::destroySurface	mStatus != NO_ERROR!
+02-17,15:23:04.801,E,SurfaceComposerClient,SurfaceComposerClient::destroySurface	mStatus != NO_ERROR!
+02-17,15:23:04.807,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:04.809,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:04.839,E,OppoPackageManager,parserFilterAppList()	xml empty, return.
+02-17,15:23:04.843,E,Parcel,Reading	NULL string not supported here.
+02-17,15:23:04.884,E,Parcel,Reading	NULL string not supported here.
+02-17,15:23:04.994,E,elsa,ERROR	 getmAh: open /sys/class/power_supply/battery/batt_rm failed, reason:Permission denied!
+02-17,15:23:05.736,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:05.759,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:05.769,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:06.578,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:06.600,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:06.613,E,Parcel,Reading	NULL string not supported here.
+02-17,15:23:06.854,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:06.863,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:06.875,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:06.993,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.002,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.015,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.108,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.117,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.127,E,Parcel,Reading	NULL string not supported here.
+02-17,15:23:07.222,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.232,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.240,E,Parcel,Reading	NULL string not supported here.
+02-17,15:23:07.480,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.505,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.961,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:07.987,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:08.000,E,Parcel,Reading	NULL string not supported here.
+02-17,15:23:08.156,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:08.178,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:08.188,E,Parcel,Reading	NULL string not supported here.
+02-17,15:23:08.264,E,MediaTraceUtil,writeTraceToFile	trace is null or size is 0.so return
+02-17,15:23:08.355,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:08.365,E,Parcel,Reading	a NULL string not supported here.
+02-17,15:23:08.376,E,Parcel,Reading	NULL string not supported here.
+02-17,15:23:08.409,E,MediaTraceUtil,writeTraceToFile	trace is null or size is 0.so return
+02-17,15:23:08.694,E,libc,Access	denied finding property "ro.build.flavor"
+02-17,15:23:08.695,E,sensors-hal,handle_sns_client_event:85,	device_orient_event: ts=575216532103753, type=4
