@@ -1,5 +1,6 @@
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'INTERFACE' not found
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
 02-17,16:25:50.416,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
@@ -99,3 +100,63 @@ Date, Timestamp, Level, Module, Description
 02-17,16:26:09.344,E,OMXNodeInstance,getParameter(0xdf7b5004:qcom.decoder.avc,	ERROR: UnsupportedSetting(0x80001019)
 02-17,16:26:09.348,E,OMX-VDEC-1080P,Extension:	not implemented
 02-17,16:26:10.020,E,TaskPersister,File	error accessing recents directory (directory doesn't exist?).
+02-17,16:26:12.807,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-17,16:26:12.932,E,Parcel,Reading	string not supported here.
+02-17,16:26:12.934,E,Parcel,Reading	string not supported here.
+02-17,16:26:12.936,E,Parcel,Reading	string not supported here.
+02-17,16:26:12.963,E,aojq,Phenotype	error. Event # cbuf@51fe47f7, EventCode: 32 [CONTEXT service_id=51 ]
+02-17,16:26:12.963,E,aojq,aoiq:	
+02-17,16:26:12.963,E,aojq,at	(100408-288960190):8)
+02-17,16:26:12.963,E,aojq,at	(100408-288960190):91)
+02-17,16:26:12.963,E,aojq,at	(100408-288960190):77)
+02-17,16:26:12.963,E,aojq,at	(100408-288960190):8)
+02-17,16:26:12.963,E,aojq,at	(100408-288960190):2)
+02-17,16:26:12.963,E,aojq,at	(100408-288960190):14)
+02-17,16:26:12.963,E,aojq,at	(100408-288960190):2)
+02-17,16:26:12.963,E,aojq,at	
+02-17,16:26:12.963,E,aojq,at	
+02-17,16:26:12.963,E,aojq,at	Source:7)
+02-17,16:26:12.963,E,aojq,at	
+02-17,16:26:12.963,E,AsyncOperation,serviceID=51,	
+02-17,16:26:12.963,E,AsyncOperation,OperationException[Status{statusCode=unknown	code: 29503, resolution=null}]
+02-17,16:26:12.963,E,AsyncOperation,at	(100408-288960190):92)
+02-17,16:26:12.963,E,AsyncOperation,at	(100408-288960190):77)
+02-17,16:26:12.963,E,AsyncOperation,at	(100408-288960190):8)
+02-17,16:26:12.963,E,AsyncOperation,at	(100408-288960190):2)
+02-17,16:26:12.963,E,AsyncOperation,at	(100408-288960190):14)
+02-17,16:26:12.963,E,AsyncOperation,at	(100408-288960190):2)
+02-17,16:26:12.963,E,AsyncOperation,at	
+02-17,16:26:12.963,E,AsyncOperation,at	
+02-17,16:26:12.963,E,AsyncOperation,at	Source:7)
+02-17,16:26:12.963,E,AsyncOperation,at	
+02-17,16:26:12.988,E,Parcel,Reading	string not supported here.
+02-17,16:26:13.032,E,Parcel,Reading	string not supported here.
+02-17,16:26:13.255,E,Parcel,Reading	string not supported here.
+02-17,16:26:13.295,E,Parcel,Reading	NULL string not supported here.
+02-17,16:26:13.359,E,PrewarmJobService,[CelloPrewarmer-0]	for accountId: AccountId b34b205b
+02-17,16:26:13.359,E,PrewarmJobService,java.lang.Throwable:	requested for accountId: AccountId b34b205b
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,PrewarmJobService,at	
+02-17,16:26:13.359,E,CelloPrewarmer,[CelloPrewarmer-0]	for account: AccountId b34b205b
+02-17,16:26:13.359,E,CelloPrewarmer,java.lang.Throwable:	requested for accountId: AccountId b34b205b
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:13.359,E,CelloPrewarmer,at	
+02-17,16:26:14.272,E,TaskPersister,File	error accessing recents directory (directory doesn't exist?).
