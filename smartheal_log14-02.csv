@@ -14,6 +14,8 @@ Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 Date,Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
@@ -433,3 +435,7 @@ Date, Timestamp, Level, Module, Description
 02-17,16:12:09.211,E,Parcel,Reading	a NULL string not supported here.
 02-17,16:12:09.217,E,Parcel,Reading	a NULL string not supported here.
 02-17,16:12:09.222,E,Parcel,Reading	a NULL string not supported here.
+02-17,16:19:07.233,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'INTERFACE' not found
+02-17,16:19:07.233,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
+02-17,16:19:07.233,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
+02-17,16:19:07.233,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'UID' not found
