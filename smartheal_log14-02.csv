@@ -1,0 +1,15 @@
+Date, Timestamp, Level, Module, Description
+02-21,10:47:16.815,E,InputReader,POWER	Key comes, notifyKey - eventTime=494599708015000, deviceId=4, source=0x101, policyFlags=0x0, action=0x0, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=494599708015000
+02-21,10:47:16.851,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
+02-21,10:47:16.895,E,Parcel,Reading	a NULL string not supported here.
+02-21,10:47:16.915,E,FingerprintHal,fingerprint_authenticateAsType	
+02-21,10:47:16.915,E,[GF_HAL][Device],[enable_tp]	mode = 1.
+02-21,10:47:16.923,E,android.hardware.biometrics.fingerprint@2.1-service,vendorAcquiredFilter:	1003
+02-21,10:47:16.968,E,InputReader,POWER	Key comes, notifyKey - eventTime=494599862175000, deviceId=4, source=0x101, policyFlags=0x0, action=0x1, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=494599708015000
+02-21,10:47:16.991,E,oiface,DynamicFps	is not enabled!
+02-21,10:47:17.039,E,WifiStateMachine,getWifiLinkLayerStats	called without an interface
+02-21,10:47:17.045,E,OppoWifiStateMachine2,getWifiLinkLayerStats	called without an interface
+02-21,10:47:17.052,E,soundtrigger,audio_extn_sound_trigger_set_parameters:	audio_extn_sound_trigger_set_parameters: str_params NULL
+02-21,10:47:17.061,E,libc,Access	denied finding property "vendor.mdlogger.Running"
+02-21,10:47:17.298,E,libc,Access	denied finding property "ro.build.flavor"
+02-21,10:47:17.298,E,sensors-hal,handle_sns_client_event:85,	device_orient_event: ts=904265159484238, type=4
