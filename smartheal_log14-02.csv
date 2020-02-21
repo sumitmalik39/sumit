@@ -1,4 +1,5 @@
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-21,10:47:16.815,E,InputReader,POWER	Key comes, notifyKey - eventTime=494599708015000, deviceId=4, source=0x101, policyFlags=0x0, action=0x0, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=494599708015000
 02-21,10:47:16.851,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
 02-21,10:47:16.895,E,Parcel,Reading	a NULL string not supported here.
@@ -13,3 +14,43 @@ Date, Timestamp, Level, Module, Description
 02-21,10:47:17.061,E,libc,Access	denied finding property "vendor.mdlogger.Running"
 02-21,10:47:17.298,E,libc,Access	denied finding property "ro.build.flavor"
 02-21,10:47:17.298,E,sensors-hal,handle_sns_client_event:85,	device_orient_event: ts=904265159484238, type=4
+02-21,10:47:21.284,E,.android.chrom,Not	since process cannot load the jdwp agent.
+02-21,10:47:21.706,E,Parcel,Reading	a NULL string not supported here.
+02-21,10:47:21.709,E,Parcel,Reading	a NULL string not supported here.
+02-21,10:47:21.742,E,Parcel,Reading	a NULL string not supported here.
+02-21,10:47:21.747,E,Parcel,Reading	a NULL string not supported here.
+02-21,10:47:22.019,E,Parcel,Reading	string not supported here.
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,Unable	data usage from system file
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,X.2Rl:	(Permission denied)
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,Caused	/proc/net/xt_qtaguid/stats (Permission denied)
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.983,E,fb4a.FbTrafficStats,...	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,Unable	data usage from system file
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,X.2Rl:	(Permission denied)
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,Caused	/proc/net/xt_qtaguid/stats (Permission denied)
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
+02-21,10:47:24.985,E,fb4a.FbTrafficStats,...	
