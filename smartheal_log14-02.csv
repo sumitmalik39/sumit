@@ -1,5 +1,6 @@
 Date, Timestamp, Level, Module, Description
 Date, Timestamp, Level, Module, Description
+Date, Timestamp, Level, Module, Description
 02-21,10:47:16.815,E,InputReader,POWER	Key comes, notifyKey - eventTime=494599708015000, deviceId=4, source=0x101, policyFlags=0x0, action=0x0, flags=0x8, keyCode=0x1a, scanCode=0x74, metaState=0x0, downTime=494599708015000
 02-21,10:47:16.851,E,SurfaceFlinger,error	SurfaceFlinger: error setOppoPowerStatus:/sys/kernel/oppo_display/power_status(-1)
 02-21,10:47:16.895,E,Parcel,Reading	a NULL string not supported here.
@@ -54,3 +55,4 @@ Date, Timestamp, Level, Module, Description
 02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
 02-21,10:47:24.985,E,fb4a.FbTrafficStats,at	
 02-21,10:47:24.985,E,fb4a.FbTrafficStats,...	
+02-21,10:48:29.427,E,rutils,releaseProcess	1
