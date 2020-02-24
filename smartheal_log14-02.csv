@@ -8,7 +8,6 @@ Date, Timestamp, Level, Module, Description
 02-24,12:02:11.037,E,OMX-VDEC-1080P,Extension:	not implemented
 02-24,12:02:11.037,E,OMX-VDEC-1080P,Extension:	not implemented
 02-24,12:02:11.037,E,OMX-VDEC-1080P,Extension:	is supported
-02-24,12:02:11.037,E,OMX-VDEC-1080P,get_parameter:	param 7f000046
 02-24,12:02:11.037,E,OMXNodeInstance,getParameter(0xe1848b04:qcom.decoder.vp9,	ERROR: UnsupportedIndex(0x8000101a)
 02-24,12:02:11.038,E,OMX-VDEC-1080P,set_parameter:	0x80001019, setting param 0x7f00005d
 02-24,12:02:11.038,E,OMXNodeInstance,setParameter(0xe1848b04:qcom.decoder.vp9,	Output:1 en=0) ERROR: UnsupportedSetting(0x80001019)
