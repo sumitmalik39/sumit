@@ -79,3 +79,61 @@ Date, Timestamp, Level, Module, Description
 02-24,12:04:38.852,E,QC-time-services,Daemon:	Time-services: Waiting to acceptconnection
 02-24,12:04:50.785,E,rutils,releaseProcess	1
 02-24,12:05:00.760,E,Parcel,Reading	string not supported here.
+02-24,12:05:10.510,E,AudioFlinger,getNextBuffer	getNextBuffer pid: 14369, get null buffer
+02-24,12:05:10.633,E,OMXNodeInstance,getConfig(0xeaaa65a0:google.aac.decoder,	ConfigAndroidVendorExtension(0x6f100004)) ERROR: Undefined(0x80001001)
+02-24,12:05:10.650,E,OMX-VDEC-1080P,Unsupported	color format for c2d (2141391876)
+02-24,12:05:10.651,E,OMX-VDEC-1080P,Setting	format failed
+02-24,12:05:10.659,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:05:10.659,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:05:10.659,E,OMX-VDEC-1080P,Extension:	is supported
+02-24,12:05:10.659,E,OMX-VDEC-1080P,get_parameter:	param 7f000046
+02-24,12:05:10.659,E,OMXNodeInstance,getParameter(0xe1848b04:qcom.decoder.vp9,	ERROR: UnsupportedIndex(0x8000101a)
+02-24,12:05:10.660,E,OMX-VDEC-1080P,set_parameter:	0x80001019, setting param 0x7f00005d
+02-24,12:05:10.660,E,OMXNodeInstance,setParameter(0xe1848b04:qcom.decoder.vp9,	Output:1 en=0) ERROR: UnsupportedSetting(0x80001019)
+02-24,12:05:10.660,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:05:10.661,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.661,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.661,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.663,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.663,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.663,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.663,E,OMX-VDEC-1080P,get_parameter:	param 6f600007
+02-24,12:05:10.663,E,OMXNodeInstance,getParameter(0xe1848b04:qcom.decoder.vp9,	ERROR: UnsupportedIndex(0x8000101a)
+02-24,12:05:10.664,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.664,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.665,E,OMXNodeInstance,getConfig(0xe1848b04:qcom.decoder.vp9,	ERROR: UnsupportedSetting(0x80001019)
+02-24,12:05:10.669,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.693,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.693,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:10.693,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.AndroidNativeBufferConsumerUsage not implemented
+02-24,12:05:10.982,E,YouTube,Expected	to be REQUESTED, but was NOT_REQUESTED
+02-24,12:05:10.982,E,YouTube,Unexpected	NOT_REQUESTED to ACQUIRED
+02-24,12:05:11.039,E,YouTube,ERROR	for new ad without reset being called. Clients in incorrect state
+02-24,12:05:11.087,E,OMXNodeInstance,getConfig(0xeaaa65a0:google.aac.decoder,	ERROR: Undefined(0x80001001)
+02-24,12:05:11.103,E,OMX-VDEC-1080P,Unsupported	output color format for c2d (2141391876)
+02-24,12:05:11.103,E,OMX-VDEC-1080P,Setting	color format failed
+02-24,12:05:11.109,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.storeANWBufferInMetadata not implemented
+02-24,12:05:11.109,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.configureVideoTunnelMode not implemented
+02-24,12:05:11.109,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.useAndroidNativeBuffer is supported
+02-24,12:05:11.109,E,OMX-VDEC-1080P,get_parameter:	unknown param 7f000046
+02-24,12:05:11.109,E,OMXNodeInstance,getParameter(0xe6f88004:qcom.decoder.vp9,	??(0x7f000046)) ERROR: UnsupportedIndex(0x8000101a)
+02-24,12:05:11.110,E,OMX-VDEC-1080P,set_parameter:	Error: 0x80001019, setting param 0x7f00005d
+02-24,12:05:11.110,E,OMXNodeInstance,setParameter(0xe6f88004:qcom.decoder.vp9,	OMX.google.android.index.allocateNativeHandle(0x7f00005d): Output:1 en=0) ERROR: UnsupportedSetting(0x80001019)
+02-24,12:05:11.110,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.storeANWBufferInMetadata not implemented
+02-24,12:05:11.110,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.111,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.112,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.112,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.112,E,OMX-VDEC-1080P,get_parameter:	unknown param 6f600007
+02-24,12:05:11.112,E,OMXNodeInstance,getParameter(0xe6f88004:qcom.decoder.vp9,	ParamVideoAndroidVp8Encoder(0x6f600007)) ERROR: UnsupportedIndex(0x8000101a)
+02-24,12:05:11.113,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.113,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.113,E,OMXNodeInstance,getConfig(0xe6f88004:qcom.decoder.vp9,	??(0x7f000062)) ERROR: UnsupportedSetting(0x80001019)
+02-24,12:05:11.116,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.137,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.137,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.137,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:05:11.158,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.158,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:11.159,E,OMXNodeInstance,getConfig(0xe6f88004:qcom.decoder.vp9,	ERROR: UnsupportedSetting(0x80001019)
+02-24,12:05:11.162,E,OMX-VDEC-1080P,Extension:	OMX.QTI.index.config.video.getdsmode not implemented
