@@ -140,3 +140,42 @@ Date, Timestamp, Level, Module, Description
 02-24,12:05:17.286,E,Parcel,Reading	string not supported here.
 02-24,12:05:17.358,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
 02-24,12:05:20.786,E,rutils,releaseProcess	1
+02-24,12:05:28.584,E,OMXNodeInstance,getConfig(0xeb00f020:google.aac.decoder,	ConfigAndroidVendorExtension(0x6f100004)) ERROR: Undefined(0x80001001)
+02-24,12:05:28.601,E,OMX-VDEC-1080P,Unsupported	output color format for c2d (2141391876)
+02-24,12:05:28.601,E,OMX-VDEC-1080P,Setting	color format failed
+02-24,12:05:28.608,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.storeANWBufferInMetadata not implemented
+02-24,12:05:28.608,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.configureVideoTunnelMode not implemented
+02-24,12:05:28.608,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.useAndroidNativeBuffer is supported
+02-24,12:05:28.608,E,OMX-VDEC-1080P,get_parameter:	unknown param 7f000046
+02-24,12:05:28.608,E,OMXNodeInstance,getParameter(0xe6ce8a84:qcom.decoder.vp9,	??(0x7f000046)) ERROR: UnsupportedIndex(0x8000101a)
+02-24,12:05:28.609,E,OMX-VDEC-1080P,set_parameter:	Error: 0x80001019, setting param 0x7f00005d
+02-24,12:05:28.609,E,OMXNodeInstance,setParameter(0xe6ce8a84:qcom.decoder.vp9,	OMX.google.android.index.allocateNativeHandle(0x7f00005d): Output:1 en=0) ERROR: UnsupportedSetting(0x80001019)
+02-24,12:05:28.609,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.storeANWBufferInMetadata not implemented
+02-24,12:05:28.610,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.610,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.611,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.612,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.612,E,OMX-VDEC-1080P,get_parameter:	unknown param 6f600007
+02-24,12:05:28.612,E,OMXNodeInstance,getParameter(0xe6ce8a84:qcom.decoder.vp9,	ParamVideoAndroidVp8Encoder(0x6f600007)) ERROR: UnsupportedIndex(0x8000101a)
+02-24,12:05:28.613,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.613,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.613,E,OMXNodeInstance,getConfig(0xe6ce8a84:qcom.decoder.vp9,	ERROR: UnsupportedSetting(0x80001019)
+02-24,12:05:28.618,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.638,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.638,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.638,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:05:28.739,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.739,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:05:28.740,E,OMXNodeInstance,getConfig(0xe6ce8a84:qcom.decoder.vp9,	ERROR: UnsupportedSetting(0x80001019)
+02-24,12:05:28.749,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:05:28.759,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,12:05:28.759,E,msm8974_platform,platform_check_backends_match:	platform_check_backends_match: Invalid snd_device = 
+02-24,12:05:28.801,E,ACDB-LOADER,Error:	Error: ACDB_CMD_GET_AFE_INSTANCE_COMMON_TABLE_SIZE Returned = -19
+02-24,12:05:28.801,E,ACDB-LOADER,Error:	Error: ACDB AFE returned = -19
+02-24,12:05:30.774,E,Parcel,Reading	string not supported here.
+02-24,12:05:31.085,E,SQLiteCastStore,Skip	CastDeviceInfo: "Nearby device" (__cast_nearby___V_1bac3324-e0ce-4d23-a306-1491ccc82fba)
+02-24,12:05:31.116,E,Parcel,Reading	string not supported here.
+02-24,12:05:31.485,E,Parcel,Reading	string not supported here.
+02-24,12:05:31.558,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-24,12:05:32.180,E,FastNetworkLocation,location	time is older!!
+02-24,12:05:32.186,E,IzatSvc_ComboNetworkProvider,Exiting	Exiting with error proc line 226 "1"
