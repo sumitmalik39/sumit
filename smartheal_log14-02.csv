@@ -12,3 +12,5 @@ Date, Timestamp, Level, Module, Description
 02-24,11:46:12.161,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
 02-24,11:46:23.188,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
 02-24,11:46:31.121,E,Parcel,Reading	string not supported here.
+02-24,11:46:44.577,E,Parcel,Reading	string not supported here.
+02-24,11:46:44.683,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
