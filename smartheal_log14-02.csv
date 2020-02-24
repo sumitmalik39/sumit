@@ -4,3 +4,37 @@ Date, Timestamp, Level, Module, Description
 02-24,12:01:59.552,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
 02-24,12:01:59.552,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
 02-24,12:01:59.552,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'UID' not found
+02-24,12:02:11.002,E,OMXNodeInstance,getConfig(0xeaaa69c0:google.aac.decoder,	ConfigAndroidVendorExtension(0x6f100004)) ERROR: Undefined(0x80001001)
+02-24,12:02:11.029,E,OMX-VDEC-1080P,Unsupported	color format for c2d (2141391876)
+02-24,12:02:11.029,E,OMX-VDEC-1080P,Setting	format failed
+02-24,12:02:11.037,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:02:11.037,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:02:11.037,E,OMX-VDEC-1080P,Extension:	is supported
+02-24,12:02:11.037,E,OMX-VDEC-1080P,get_parameter:	param 7f000046
+02-24,12:02:11.037,E,OMXNodeInstance,getParameter(0xe1848b04:qcom.decoder.vp9,	ERROR: UnsupportedIndex(0x8000101a)
+02-24,12:02:11.038,E,OMX-VDEC-1080P,set_parameter:	0x80001019, setting param 0x7f00005d
+02-24,12:02:11.038,E,OMXNodeInstance,setParameter(0xe1848b04:qcom.decoder.vp9,	Output:1 en=0) ERROR: UnsupportedSetting(0x80001019)
+02-24,12:02:11.038,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:02:11.038,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.039,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.039,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.039,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.040,E,OMX-VDEC-1080P,get_parameter:	param 6f600007
+02-24,12:02:11.040,E,OMXNodeInstance,getParameter(0xe1848b04:qcom.decoder.vp9,	ERROR: UnsupportedIndex(0x8000101a)
+02-24,12:02:11.040,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.040,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.041,E,OMXNodeInstance,getConfig(0xe1848b04:qcom.decoder.vp9,	ERROR: UnsupportedSetting(0x80001019)
+02-24,12:02:11.045,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.062,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.062,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.063,E,OMX-VDEC-1080P,Extension:	not implemented
+02-24,12:02:11.080,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.081,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.081,E,OMXNodeInstance,getConfig(0xe1848b04:qcom.decoder.vp9,	ERROR: UnsupportedSetting(0x80001019)
+02-24,12:02:11.090,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.090,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.090,E,OMX-VDEC-1080P,Extension:	OMX.google.android.index.AndroidNativeBufferConsumerUsage not implemented
+02-24,12:02:11.102,E,OMX-VDEC-1080P,Disabling	C2D src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.103,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
+02-24,12:02:11.103,E,OMXNodeInstance,getConfig(0xe1848b04:qcom.decoder.vp9,	ERROR: UnsupportedSetting(0x80001019)
+02-24,12:02:11.105,E,OMX-VDEC-1080P,Extension:	OMX.QTI.index.config.video.getdsmode not implemented
