@@ -45,3 +45,13 @@ Date, Timestamp, Level, Module, Description
 02-24,12:02:46.013,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-24,12:02:50.784,E,rutils,releaseProcess	1
 02-24,12:02:51.764,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,12:03:00.398,E,Parcel,Reading	string not supported here.
+02-24,12:03:00.405,E,Parcel,Reading	string not supported here.
+02-24,12:03:00.415,E,Parcel,Reading	string not supported here.
+02-24,12:03:00.422,E,Parcel,Reading	string not supported here.
+02-24,12:03:00.438,E,Parcel,Reading	string not supported here.
+02-24,12:03:00.681,E,Parcel,Reading	string not supported here.
+02-24,12:03:01.594,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,12:03:02.446,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,12:03:02.567,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,12:03:03.163,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
