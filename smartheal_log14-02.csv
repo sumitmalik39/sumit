@@ -24,3 +24,18 @@ Date, Timestamp, Level, Module, Description
 02-24,11:47:50.768,E,rutils,releaseProcess	1
 02-24,11:48:20.768,E,rutils,releaseProcess	1
 02-24,11:48:23.340,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+02-24,11:48:28.932,E,Parcel,Reading	string not supported here.
+02-24,11:48:28.935,E,Parcel,Reading	string not supported here.
+02-24,11:48:28.947,E,Parcel,Reading	string not supported here.
+02-24,11:48:28.949,E,.android.chrom,Not	since process cannot load the jdwp agent.
+02-24,11:48:28.965,E,Parcel,Reading	string not supported here.
+02-24,11:48:28.985,E,Parcel,Reading	string not supported here.
+02-24,11:48:29.057,E,Parcel,Reading	string not supported here.
+02-24,11:48:29.502,E,cr_BTSPrefs,No	for task id: 100
+02-24,11:48:29.502,E,cr_BkgrdTaskScheduler,Task	canceled because no data was found instorage or data was invalid
+02-24,11:48:29.740,E,CheckPermission,_bluetooth	1 
+02-24,11:48:29.830,E,dboxed_process,Not	since process cannot load the jdwp agent.
+02-24,11:48:29.853,E,ileged_process,Not	since process cannot load the jdwp agent.
+02-24,11:48:30.146,E,libprocessgroup,Error	encountered killing process cgroup uid 99686 pid 15869: No such file or directory
+02-24,11:48:30.149,E,Parcel,Reading	string not supported here.
+02-24,11:48:31.120,E,Parcel,Reading	string not supported here.
