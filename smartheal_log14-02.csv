@@ -52,3 +52,91 @@ Date, Timestamp, Level, Module, Description
 02-24,11:48:43.341,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
 02-24,11:48:43.450,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-24,11:48:43.606,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:47.168,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-24,11:48:47.350,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:47.638,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:47.742,E,hypnusd,same	package name, skip
+02-24,11:48:47.820,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:47.888,E,hypnusd,same	package name, skip
+02-24,11:48:47.944,E,oiface,DynamicFps	is not enabled!
+02-24,11:48:47.949,E,Parcel,Reading	string not supported here.
+02-24,11:48:48.117,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:48.427,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:49.510,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:49.513,E,ANDR-PERF-JNI,Iop	tryGetService failed
+02-24,11:48:49.597,E,oiface,DynamicFps	is not enabled!
+02-24,11:48:49.682,E,cr_CompositorSurfaceMgr,Transitioning	with format: -1
+02-24,11:48:49.763,E,rcustomization,Not	since process cannot load the jdwp agent.
+02-24,11:48:49.789,E,dboxed_process,Not	since process cannot load the jdwp agent.
+02-24,11:48:49.822,E,cr_CompositorSurfaceMgr,Transitioning	with format: -1
+02-24,11:48:49.826,E,cr_CompositorSurfaceMgr,surfaceCreated	
+02-24,11:48:49.841,E,lowmemorykiller,counter	lowmemorykiller: counter is 10000,reset to zero and sleep 50 ms
+02-24,11:48:49.844,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:50.029,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:50.049,E,Parcel,Reading	string not supported here.
+02-24,11:48:50.075,E,Parcel,Reading	string not supported here.
+02-24,11:48:50.088,E,amth,Phenotype	Event # bywb@4f37900c, EventCode: 7 [CONTEXT service_id=51 ]
+02-24,11:48:50.088,E,amth,amsk:	config packages for log source, or config package not registered
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.088,E,amth,at	
+02-24,11:48:50.089,E,AsyncOperation,serviceID=51,	
+02-24,11:48:50.089,E,AsyncOperation,OperationException[Status{statusCode=No	for log source, or config package not registered, resolution=null}]
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.089,E,AsyncOperation,at	
+02-24,11:48:50.721,E,Parcel,Reading	string not supported here.
+02-24,11:48:50.768,E,rutils,releaseProcess	1
+02-24,11:48:50.780,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:50.838,E,Parcel,Reading	string not supported here.
+02-24,11:48:50.853,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:50.864,E,Parcel,Reading	string not supported here.
+02-24,11:48:50.871,E,Parcel,Reading	string not supported here.
+02-24,11:48:50.883,E,Parcel,Reading	string not supported here.
+02-24,11:48:50.914,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:50.915,E,Parcel,Reading	string not supported here.
+02-24,11:48:50.954,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:50.971,E,OppoPackageManager,parserFilterAppList()	xml empty, return.
+02-24,11:48:50.975,E,Parcel,Reading	NULL string not supported here.
+02-24,11:48:50.987,E,Parcel,Reading	NULL string not supported here.
+02-24,11:48:51.011,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.065,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.114,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.168,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.217,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.266,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.337,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.402,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.450,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.500,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.543,E,Parcel,Reading	string not supported here.
+02-24,11:48:51.548,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:51.575,E,Parcel,Reading	string not supported here.
+02-24,11:48:51.588,E,cr_Icing,clearData	CorpusConfig for omnibox of com.android.chrome, resolution=null}
+02-24,11:48:51.614,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:52.386,E,Parcel,Reading	string not supported here.
+02-24,11:48:52.393,E,cr_InstantAppsHandlerI,Exception	getInstantAppLaunchData
+02-24,11:48:52.393,E,cr_InstantAppsHandlerI,Ou:	an instant app
+02-24,11:48:52.393,E,cr_InstantAppsHandlerI,at	
+02-24,11:48:52.393,E,cr_InstantAppsHandlerI,at	
+02-24,11:48:52.393,E,cr_InstantAppsHandlerI,at	
+02-24,11:48:52.393,E,cr_InstantAppsHandlerI,at	
+02-24,11:48:52.393,E,cr_InstantAppsHandlerI,at	
+02-24,11:48:52.393,E,cr_InstantAppsHandlerI,at	
+02-24,11:48:53.076,E,TaskPersister,File	error accessing recents directory (directory doesn't exist?).
