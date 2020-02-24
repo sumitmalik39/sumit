@@ -239,3 +239,4 @@ Date, Timestamp, Level, Module, Description
 02-24,12:06:43.972,E,Parcel,Reading	string not supported here.
 02-24,12:06:43.994,E,Parcel,Reading	string not supported here.
 02-24,12:06:50.787,E,rutils,releaseProcess	1
+02-24,12:07:00.816,E,Parcel,Reading	string not supported here.
