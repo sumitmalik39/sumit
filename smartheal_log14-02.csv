@@ -173,3 +173,6 @@ Date, Timestamp, Level, Module, Description
 02-24,11:49:08.816,E,cr_CompositorSurfaceMgr,surfaceDestroyed	
 02-24,11:49:10.283,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
 02-24,11:49:11.787,E,TaskPersister,File	error accessing recents directory (directory doesn't exist?).
+02-24,11:49:16.187,E,CheckPermission,_bluetooth	15 
+02-24,11:49:16.198,E,CheckPermission,_bluetooth	15 
+02-24,11:49:20.769,E,rutils,releaseProcess	1
