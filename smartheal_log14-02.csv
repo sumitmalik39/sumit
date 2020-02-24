@@ -39,3 +39,16 @@ Date, Timestamp, Level, Module, Description
 02-24,11:48:30.146,E,libprocessgroup,Error	encountered killing process cgroup uid 99686 pid 15869: No such file or directory
 02-24,11:48:30.149,E,Parcel,Reading	string not supported here.
 02-24,11:48:31.120,E,Parcel,Reading	string not supported here.
+02-24,11:48:37.597,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:37.679,E,NotificationShelf,NotificationShelf.clipTransientViews():	clip non-row transient view
+02-24,11:48:37.679,E,NotificationShelf,NotificationShelf.clipTransientViews():	clip non-row transient view
+02-24,11:48:39.183,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:39.276,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:39.790,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:39.880,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:40.147,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:48:42.187,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:42.315,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:43.341,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-24,11:48:43.450,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:48:43.606,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
