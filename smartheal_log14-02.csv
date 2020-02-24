@@ -173,7 +173,6 @@ Date, Timestamp, Level, Module, Description
 02-24,12:05:28.801,E,ACDB-LOADER,Error:	Error: ACDB_CMD_GET_AFE_INSTANCE_COMMON_TABLE_SIZE Returned = -19
 02-24,12:05:28.801,E,ACDB-LOADER,Error:	Error: ACDB AFE returned = -19
 02-24,12:05:30.774,E,Parcel,Reading	string not supported here.
-02-24,12:05:31.085,E,SQLiteCastStore,Skip	CastDeviceInfo: "Nearby device" (__cast_nearby___V_1bac3324-e0ce-4d23-a306-1491ccc82fba)
 02-24,12:05:31.116,E,Parcel,Reading	string not supported here.
 02-24,12:05:31.485,E,Parcel,Reading	string not supported here.
 02-24,12:05:31.558,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
