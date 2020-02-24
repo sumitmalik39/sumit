@@ -176,3 +176,5 @@ Date, Timestamp, Level, Module, Description
 02-24,11:49:16.187,E,CheckPermission,_bluetooth	15 
 02-24,11:49:16.198,E,CheckPermission,_bluetooth	15 
 02-24,11:49:20.769,E,rutils,releaseProcess	1
+02-24,11:49:30.148,E,libprocessgroup,Error	encountered killing process cgroup uid 99689 pid 17088: No such file or directory
+02-24,11:49:30.174,E,Parcel,Reading	string not supported here.
