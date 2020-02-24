@@ -263,3 +263,19 @@ Date, Timestamp, Level, Module, Description
 02-24,12:07:43.782,E,LocSvc_Agps,Subscriber	Subscriber with connHandle 0 not found in any SM
 02-24,12:07:43.793,E,Parcel,Reading	string not supported here.
 02-24,12:08:00.884,E,Parcel,Reading	string not supported here.
+02-24,12:08:17.297,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'INTERFACE' not found
+02-24,12:08:17.297,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'STATE' not found
+02-24,12:08:17.297,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'TIME_NS' not found
+02-24,12:08:17.298,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'UID' not found
+02-24,12:08:20.789,E,rutils,releaseProcess	1
+02-24,12:08:22.848,E,WakeLock,GCM_HB_ALARM	without a matched acquire!
+02-24,12:08:22.895,E,Parcel,Reading	string not supported here.
+02-24,12:08:22.903,E,Parcel,Reading	string not supported here.
+02-24,12:08:22.916,E,Parcel,Reading	string not supported here.
+02-24,12:08:22.925,E,Parcel,Reading	string not supported here.
+02-24,12:08:22.944,E,Parcel,Reading	string not supported here.
+02-24,12:08:22.963,E,Parcel,Reading	string not supported here.
+02-24,12:08:22.973,E,Parcel,Reading	string not supported here.
+02-24,12:08:23.110,E,Parcel,Reading	string not supported here.
+02-24,12:08:23.115,E,Parcel,Reading	string not supported here.
+02-24,12:08:23.388,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
