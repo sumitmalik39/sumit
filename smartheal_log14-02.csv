@@ -126,3 +126,6 @@ Date, Timestamp, Level, Module, Description
 02-24,11:36:23.168,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
 02-24,11:38:20.752,E,rutils,releaseProcess	1
 02-24,11:38:23.172,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+02-24,11:44:31.127,E,Parcel,Reading	string not supported here.
+02-24,11:44:33.230,E,FastNetworkLocation,location	time is older!!
+02-24,11:44:33.232,E,IzatSvc_ComboNetworkProvider,Exiting	Exiting with error proc line 226 "1"
