@@ -10,3 +10,4 @@ Date, Timestamp, Level, Module, Description
 02-24,11:46:07.222,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-24,11:46:07.274,E,CheckPermission,_bluetooth	1 
 02-24,11:46:12.161,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:46:23.188,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
