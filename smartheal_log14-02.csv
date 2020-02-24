@@ -42,3 +42,4 @@ Date, Timestamp, Level, Module, Description
 02-24,12:02:17.378,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
 02-24,12:02:20.783,E,rutils,releaseProcess	1
 02-24,12:02:30.673,E,Parcel,Reading	string not supported here.
+02-24,12:02:46.013,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
