@@ -14,3 +14,4 @@ Date, Timestamp, Level, Module, Description
 02-24,11:46:31.121,E,Parcel,Reading	string not supported here.
 02-24,11:46:44.577,E,Parcel,Reading	string not supported here.
 02-24,11:46:44.683,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-24,11:46:50.767,E,rutils,releaseProcess	1
