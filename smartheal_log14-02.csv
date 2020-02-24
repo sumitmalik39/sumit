@@ -249,3 +249,16 @@ Date, Timestamp, Level, Module, Description
 02-24,12:07:26.697,E,NetlinkEvent,NetlinkEvent::FindParam():	NetlinkEvent: NetlinkEvent::FindParam(): Parameter 'UID' not found
 02-24,12:07:30.849,E,Parcel,Reading	string not supported here.
 02-24,12:07:31.121,E,Parcel,Reading	string not supported here.
+02-24,12:07:43.567,E,Parcel,Reading	string not supported here.
+02-24,12:07:43.578,E,Parcel,Reading	string not supported here.
+02-24,12:07:43.582,E,Parcel,Reading	string not supported here.
+02-24,12:07:43.618,E,Parcel,Reading	string not supported here.
+02-24,12:07:43.625,E,Diag_Lib,Diag_LSM_Init:	 Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+02-24,12:07:43.665,E,sensors-hal,handle_sns_std_sensor_event:498,	gyro_sample_uncal: ts=1168291545224691 ns; value = [-0.000150, -0.000516, -0.004194], bias = [-0.000166, -0.000813, 0.000172]
+02-24,12:07:43.669,E,sensors-hal,handle_sns_std_sensor_event:498,	gyro_sample_uncal: ts=1168291550357816 ns; value = [0.000916, -0.002646, 0.005393], bias = [-0.000166, -0.000813, 0.000172]
+02-24,12:07:43.675,E,sensors-hal,handle_sns_std_sensor_event:498,	gyro_sample_uncal: ts=1168291555410107 ns; value = [-0.000150, 0.001615, 0.002197], bias = [-0.000166, -0.000813, 0.000172]
+02-24,12:07:43.713,E,Parcel,Reading	string not supported here.
+02-24,12:07:43.731,E,Parcel,Reading	string not supported here.
+02-24,12:07:43.771,E,Parcel,Reading	string not supported here.
+02-24,12:07:43.782,E,LocSvc_Agps,Subscriber	Subscriber with connHandle 0 not found in any SM
+02-24,12:07:43.793,E,Parcel,Reading	string not supported here.
