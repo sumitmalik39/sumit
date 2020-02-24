@@ -1,0 +1,3 @@
+Date, Timestamp, Level, Module, Description
+02-24,11:45:31.092,E,SQLiteCastStore,Skip	CastDeviceInfo: "Nearby device" (__cast_nearby___V_1bac3324-e0ce-4d23-a306-1491ccc82fba)
+02-24,11:45:31.128,E,Parcel,Reading	string not supported here.
