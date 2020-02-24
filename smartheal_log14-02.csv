@@ -137,3 +137,6 @@ Date, Timestamp, Level, Module, Description
 02-24,12:05:11.158,E,OMX-VDEC-1080P,Disabling	src_fmt = 2141391878 and dest_fmt = 2141391878
 02-24,12:05:11.159,E,OMXNodeInstance,getConfig(0xe6f88004:qcom.decoder.vp9,	ERROR: UnsupportedSetting(0x80001019)
 02-24,12:05:11.162,E,OMX-VDEC-1080P,Extension:	OMX.QTI.index.config.video.getdsmode not implemented
+02-24,12:05:17.286,E,Parcel,Reading	string not supported here.
+02-24,12:05:17.358,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-24,12:05:20.786,E,rutils,releaseProcess	1
