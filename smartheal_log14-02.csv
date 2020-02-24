@@ -184,3 +184,11 @@ Date, Timestamp, Level, Module, Description
 02-24,12:05:42.235,E,Parcel,Reading	string not supported here.
 02-24,12:06:20.786,E,rutils,releaseProcess	1
 02-24,12:06:23.376,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
+02-24,12:06:30.834,E,Parcel,Reading	string not supported here.
+02-24,12:06:31.120,E,Parcel,Reading	string not supported here.
+02-24,12:06:32.529,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:32.556,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:32.571,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:32.588,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:32.604,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:32.621,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
