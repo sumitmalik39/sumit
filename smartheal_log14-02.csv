@@ -192,3 +192,49 @@ Date, Timestamp, Level, Module, Description
 02-24,12:06:32.588,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
 02-24,12:06:32.604,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
 02-24,12:06:32.621,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:42.570,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:42.587,E,.media.jiobeat,Not	since process cannot load the jdwp agent.
+02-24,12:06:42.588,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:42.611,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:42.635,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:42.651,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:42.671,E,CheckPermission,Permission	access location pid=18780, uid=10195, des=android.location.ILocationManager code=5
+02-24,12:06:42.948,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-24,12:06:43.362,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
+02-24,12:06:43.369,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.375,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.375,E,OppoPackageManager,parserFilterAppList()	xml empty, return.
+02-24,12:06:43.375,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.377,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.377,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.377,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.377,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.378,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.379,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.380,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.381,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.384,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.385,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.385,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.387,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.388,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.390,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.400,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.426,E,OppoPackageManager,parserFilterAppList()	xml empty, return.
+02-24,12:06:43.429,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.432,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.433,E,FBAudienceNetwork,You	custom Application class and don't call AudienceNetworkAds.isInAdsProcess(). Multi-process support will be disabled. Please call AudienceNetworkAds.isInAdsProcess() if you want to support multi-process mode.
+02-24,12:06:43.433,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.452,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.457,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.488,E,OppoPackageManager,parserFilterAppList()	xml empty, return.
+02-24,12:06:43.491,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.514,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.613,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.635,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.710,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.803,E,chromium,[ERROR:filesystem_posix.cc(62)]	No such file or directory (2)
+02-24,12:06:43.819,E,webview_servic,Not	since process cannot load the jdwp agent.
+02-24,12:06:43.849,E,dboxed_process,Not	since process cannot load the jdwp agent.
+02-24,12:06:43.972,E,Parcel,Reading	string not supported here.
+02-24,12:06:43.994,E,Parcel,Reading	string not supported here.
