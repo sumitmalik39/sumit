@@ -241,3 +241,5 @@ Date, Timestamp, Level, Module, Description
 02-24,12:06:50.787,E,rutils,releaseProcess	1
 02-24,12:07:00.816,E,Parcel,Reading	string not supported here.
 02-24,12:07:09.680,E,libprocessgroup,Error	encountered killing process cgroup uid 99691 pid 17825: No such file or directory
+02-24,12:07:20.787,E,rutils,releaseProcess	1
+02-24,12:07:23.382,E,storaged,getDiskStats	failed with result NOT_SUPPORTED and size 0
