@@ -262,3 +262,4 @@ Date, Timestamp, Level, Module, Description
 02-24,12:07:43.771,E,Parcel,Reading	string not supported here.
 02-24,12:07:43.782,E,LocSvc_Agps,Subscriber	Subscriber with connHandle 0 not found in any SM
 02-24,12:07:43.793,E,Parcel,Reading	string not supported here.
+02-24,12:08:00.884,E,Parcel,Reading	string not supported here.
