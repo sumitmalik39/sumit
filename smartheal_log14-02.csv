@@ -158,3 +158,18 @@ Date, Timestamp, Level, Module, Description
 02-24,11:49:01.729,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
 02-24,11:49:01.773,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-24,11:49:02.282,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:49:06.545,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:49:08.202,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-24,11:49:08.337,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:49:08.440,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:49:08.498,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:49:08.513,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:49:08.565,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:49:08.627,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:49:08.689,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:49:08.755,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:49:08.806,E,oiface,DynamicFps	is not enabled!
+02-24,11:49:08.806,E,Parcel,Reading	string not supported here.
+02-24,11:49:08.816,E,cr_CompositorSurfaceMgr,surfaceDestroyed	
+02-24,11:49:10.283,E,ANDR-PERF-RESOURCEQS,Failed	ANDR-PERF-RESOURCEQS: Failed to reset optimization [3, 0]
+02-24,11:49:11.787,E,TaskPersister,File	error accessing recents directory (directory doesn't exist?).
