@@ -4,3 +4,8 @@ Date, Timestamp, Level, Module, Description
 02-24,11:45:50.197,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
 02-24,11:45:50.765,E,rutils,releaseProcess	1
 02-24,11:45:51.035,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:46:07.085,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:46:07.203,E,PhoneState,iconId	G.ED..... ......I. 0,0-0,0 #7f0a0117 app:id/data_inout}
+02-24,11:46:07.211,E,.coloros.oshar,Not	since process cannot load the jdwp agent.
+02-24,11:46:07.222,E,ANDR-PERF-MPCTL,Invalid	ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+02-24,11:46:07.274,E,CheckPermission,_bluetooth	1 
