@@ -78,3 +78,4 @@ Date, Timestamp, Level, Module, Description
 02-24,12:04:38.850,E,QC-time-services,Receive	Passed == base = 13, unit = 1, operation = 0, result = 0
 02-24,12:04:38.852,E,QC-time-services,Daemon:	Time-services: Waiting to acceptconnection
 02-24,12:04:50.785,E,rutils,releaseProcess	1
+02-24,12:05:00.760,E,Parcel,Reading	string not supported here.
