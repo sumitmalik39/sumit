@@ -179,3 +179,6 @@ Date, Timestamp, Level, Module, Description
 02-24,12:05:31.558,E,Process,get_ion_cache_memory:	Unable to open /d/ion/heaps/system
 02-24,12:05:32.180,E,FastNetworkLocation,location	time is older!!
 02-24,12:05:32.186,E,IzatSvc_ComboNetworkProvider,Exiting	Exiting with error proc line 226 "1"
+02-24,12:05:42.228,E,Parcel,Reading	string not supported here.
+02-24,12:05:42.231,E,Parcel,Reading	string not supported here.
+02-24,12:05:42.235,E,Parcel,Reading	string not supported here.
